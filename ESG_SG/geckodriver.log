@@ -1,0 +1,35 @@
+1533709662379	geckodriver	INFO	geckodriver 0.20.1 (685f18325cea0a282c736e65972f95aa6db7ca48 2018-04-03)
+1533709662387	geckodriver	INFO	Listening on 127.0.0.1:65155
+1533709662897	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.QEkl4kSdAiYY"
+1533709666034	Marionette	INFO	Listening on port 65160
+1533709666662	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sel&json=1&p=3&sid=1452_25809_21103_18559_26350_26922&req=2&csor=3&pwd=se&cb=jQuery1102022566636164020337_1533709668695&_=1533709668699, line 1: TypeError: jQuery1102022566636164020337_1533709668695 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sele&json=1&p=3&sid=1452_25809_21103_18559_26350_26922&req=2&csor=4&pwd=sel&cb=jQuery1102022566636164020337_1533709668695&_=1533709668700, line 1: TypeError: jQuery1102022566636164020337_1533709668695 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=s&json=1&p=3&sid=1452_25809_21103_18559_26350_26922&req=2&csor=1&cb=jQuery1102022566636164020337_1533709668695&_=1533709668697, line 1: TypeError: jQuery1102022566636164020337_1533709668695 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleni&json=1&p=3&sid=1452_25809_21103_18559_26350_26922&req=2&csor=6&pwd=selen&cb=jQuery1102022566636164020337_1533709668695&_=1533709668702, line 1: TypeError: jQuery1102022566636164020337_1533709668695 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selen&json=1&p=3&sid=1452_25809_21103_18559_26350_26922&req=2&csor=5&pwd=sele&cb=jQuery1102022566636164020337_1533709668695&_=1533709668701, line 1: TypeError: jQuery1102022566636164020337_1533709668695 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium&json=1&p=3&sid=1452_25809_21103_18559_26350_26922&req=2&csor=8&pwd=seleniu&cb=jQuery1102022566636164020337_1533709668695&_=1533709668704, line 1: TypeError: jQuery1102022566636164020337_1533709668695 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleniu&json=1&p=3&sid=1452_25809_21103_18559_26350_26922&req=2&csor=7&pwd=seleni&cb=jQuery1102022566636164020337_1533709668695&_=1533709668703, line 1: TypeError: jQuery1102022566636164020337_1533709668695 is not a function
+1533709669421	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/TelemetryFeed.jsm :: uninit :: line 493"  data: no] Stack trace: uninit()@resource://activity-stream/lib/TelemetryFeed.jsm:493
+onAction()@resource://activity-stream/lib/TelemetryFeed.jsm:451
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:51
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:29
+uninit()@resource://activity-stream/lib/Store.jsm:170
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:318
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///D:/Program%20Files/Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:79
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///D:/Program%20Files/Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:187
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:2757
+observe()@resource://gre/modules/addons/XPIProvider.jsm:1672
+GeckoDriver.prototype.quit()@driver.js:3282
+despatch()@server.js:294
+execute()@server.js:268
+onPacket/<()@server.js:243
+onPacket()@server.js:242
+_onJSONObjectReady/<()@transport.js:500
+[Child 23708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23708, Chrome_Chi[Child 25576, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25576, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 34204, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

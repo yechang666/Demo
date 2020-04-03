@@ -1,0 +1,324 @@
+2020-01-19 10:01:01.468 [csServer-dtm] [INFO] MBox ROM Version is: X002_8909_v1.8_20170626_11_user
+2020-01-19 10:01:01.469 [csServer-dtm] [INFO] MBox device id is: 868770001675114
+2020-01-19 10:01:01.469 [csServer-dtm] [INFO] CSServer version is: 3.4.3.2018121101
+2020-01-19 10:01:01.488 [csServer-dtm] [INFO] CSServer updates no config
+2020-01-19 10:01:01.505 [csServer-dtm] [INFO] &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&& MAIN SERVICE CREATE
+2020-01-19 10:01:01.507 [csServer-dtm] [INFO] begin to open ap: 5114
+2020-01-19 10:01:01.513 [csServer-dtm] [INFO] Shell command: cat /sys/devices/system/cpu/online return: 0-3
+2020-01-19 10:01:01.536 [csServer-dtm] [INFO] WIFI Portal init starts
+2020-01-19 10:01:01.539 [csServer-dtm] [INFO] WIFI Portal init file:/storage/emulated/0/lband_server/WifiPortal.zip exists: false
+2020-01-19 10:01:01.556 [csServer-dtm] [INFO] open ap success: 5114
+2020-01-19 10:01:01.664 [csServer-dtm] [INFO] Shell command: cat /sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq return: 1094400
+2020-01-19 10:01:01.733 [csServer-dtm] [WARN] wait for ip,used time:0 s
+2020-01-19 10:01:02.403 [csServer-dtm] [INFO] get current ip: 192.168.43.1
+2020-01-19 10:01:02.406 [csServer-dtm] [INFO] 0 csserver OK broadcast sent
+2020-01-19 10:01:02.407 [csServer-dtm] [INFO] BC init at frequency: 1489
+2020-01-19 10:01:02.439 [csServer-dtm-JNI] [INFO] init CSServer OK
+2020-01-19 10:01:02.445 [csServer-dtm-JNI] [INFO] ===================ts push thread in======================
+2020-01-19 10:01:02.450 [csServer-dtm-JNI] [INFO] Jni max buffer len is:34860
+2020-01-19 10:01:02.454 [csServer-dtm] [INFO] deviceliset size is:1
+2020-01-19 10:01:02.458 [csServer-dtm] [INFO] usb device:/dev/bus/usb/001/002 3344 1120
+2020-01-19 10:01:02.467 [csServer-dtm] [INFO] DTV Device prob 18
+2020-01-19 10:01:02.468 [csServer-dtm] [INFO] path is:/dev/bus/usb/001/002
+2020-01-19 10:01:02.471 [csServer-dtm-JNI] [INFO] version is:5.1.1
+2020-01-19 10:01:02.490 [csServer-dtm-JNI] [INFO] version int  is:51
+2020-01-19 10:01:02.493 [csServer-dtm-JNI] [INFO] get demod version error:-1
+2020-01-19 10:01:02.493 [csServer-dtm-JNI] [INFO] begin to libdtvdev_api_prob_device
+2020-01-19 10:01:03.576 [csServer-dtm-JNI] [INFO] end  libdtvdev_api_prob_device,return is:0
+2020-01-19 10:01:03.580 [csServer-dtm-JNI] [ERROR] usb driver open error,the return is:-10
+2020-01-19 10:01:03.580 [csServer-dtm-JNI] [ERROR] ABSSInitialize failed,the return is:-10
+2020-01-19 10:01:03.581 [csServer-dtm-JNI] [ERROR] m_tsController init error,the error is:-10
+2020-01-19 10:01:05.099 [csServer-dtm] [INFO] Shell command: top -m 5 -n 1 -s cpu return:
+User 24%, System 33%, IOW 7%, IRQ 0%
+User 267 + Nice 35 + Sys 421 + Idle 426 + IOW 99 + IRQ 0 + SIRQ 4 = 1252
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+  734  2   7% S   101 1062020K  70236K  fg system   system_server
+ 3863  1   7% S     3   7872K   2100K  fg media_rw /system/bin/sdcard
+ 2574  3   5% S    16 939368K  31256K  bg u0_a4    android.process.media
+  294  2   4% S     3   8056K   2100K  fg media_rw /system/bin/sdcard
+ 2976  3   2% S    39 967232K  44884K  fg radio    com.android.phone
+2020-01-19 10:01:05.136 [csServer-dtm] [INFO] Shell command: df return:
+Filesystem               Size     Used     Free   Blksize
+/dev                   444.9M    60.0K   444.8M 
+2020-01-19 10:01:06.592 [csServer-dtm-JNI] [INFO] get demod version error:-1
+2020-01-19 10:01:06.593 [csServer-dtm-JNI] [INFO] begin to libdtvdev_api_prob_device
+2020-01-19 10:01:07.596 [csServer-dtm-JNI] [INFO] end  libdtvdev_api_prob_device,return is:2
+2020-01-19 10:01:07.597 [csServer-dtm-JNI] [INFO] begin to set usb filter
+2020-01-19 10:01:07.604 [csServer-dtm-JNI] [INFO] end of set usb filter
+2020-01-19 10:01:07.614 [csServer-dtm-JNI] [INFO] ====================TSReadThread in===================
+2020-01-19 10:01:07.832 [csServer-dtm] [INFO] BC started success at frequency: 1489
+2020-01-19 10:01:07.853 [csServer-dtm] [INFO] tydrm init return error code : -52, 请查看卡片是否插入
+2020-01-19 10:01:07.854 [csServer-dtm] [WARN] tydrm device register failed, init error: -52
+2020-01-19 10:01:07.857 [csServer-dtm] [INFO] database.db constructor version:28
+2020-01-19 10:01:07.971 [csServer-dtm-JNI] [INFO] DldWorkThread::run() is called. download task begin,priority is:30
+2020-01-19 10:01:07.971 [csServer-dtm-JNI] [INFO] DldWorkThread::run() is called. download task begin,priority is:30
+2020-01-19 10:01:07.972 [csServer-dtm-JNI] [INFO] DldWorkThread::run() is called. download task begin,priority is:30
+2020-01-19 10:01:07.976 [csServer-dtm-JNI] [INFO] DldWorkThread::run() is called. download task begin,priority is:20
+2020-01-19 10:01:07.973 [csServer-dtm-JNI] [INFO] DldWorkThread::run() is called. download task begin,priority is:30
+2020-01-19 10:01:07.973 [csServer-dtm-JNI] [INFO] DldWorkThread::run() is called. download task begin,priority is:20
+2020-01-19 10:01:07.974 [csServer-dtm-JNI] [INFO] DldWorkThread::run() is called. download task begin,priority is:20
+2020-01-19 10:01:07.974 [csServer-dtm-JNI] [INFO] DldWorkThread::run() is called. download task begin,priority is:30
+2020-01-19 10:01:07.979 [csServer-dtm] [INFO] 0-0 [SSG] &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&& CHANNEL START
+2020-01-19 10:01:07.974 [csServer-dtm-JNI] [INFO] DldWorkThread::run() is called. download task begin,priority is:20
+2020-01-19 10:01:07.973 [csServer-dtm-JNI] [INFO] DldWorkThread::run() is called. download task begin,priority is:20
+2020-01-19 10:01:07.974 [csServer-dtm-JNI] [INFO] DldWorkThread::run() is called. download task begin,priority is:20
+2020-01-19 10:01:07.975 [csServer-dtm-JNI] [INFO] DldWorkThread::run() is called. download task begin,priority is:20
+2020-01-19 10:01:07.975 [csServer-dtm-JNI] [INFO] DldWorkThread::run() is called. download task begin,priority is:20
+2020-01-19 10:01:07.976 [csServer-dtm-JNI] [INFO] DldWorkThread::run() is called. download task begin,priority is:10
+2020-01-19 10:01:07.972 [csServer-dtm-JNI] [INFO] DldWorkThread::run() is called. download task begin,priority is:20
+2020-01-19 10:01:07.976 [csServer-dtm-JNI] [INFO] DldWorkThread::run() is called. download task begin,priority is:20
+2020-01-19 10:01:07.976 [csServer-dtm-JNI] [INFO] DldWorkThread::run() is called. download task begin,priority is:10
+2020-01-19 10:01:07.977 [csServer-dtm-JNI] [INFO] DldWorkThread::run() is called. download task begin,priority is:10
+2020-01-19 10:01:07.977 [csServer-dtm-JNI] [INFO] DldWorkThread::run() is called. download task begin,priority is:10
+2020-01-19 10:01:07.979 [csServer-dtm-JNI] [INFO] DldWorkThread::run() is called. download task begin,priority is:10
+2020-01-19 10:01:07.980 [csServer-dtm-JNI] [INFO] 0 StbMaker::run() is called, thread id is:-1219683848
+2020-01-19 10:01:07.980 [csServer-dtm-JNI] [INFO] 0-0 ChannelManager::startLiveServiceChannel(), channelType = 1, mixType = 0, toleranceRate = 0
+2020-01-19 10:01:08.011 [csServer-dtm] [INFO] ==================START RAPTOR DECODER=================
+2020-01-19 10:01:08.022 [csServer-dtm] [INFO] database.db begin to open
+2020-01-19 10:01:08.042 [csServer-dtm] [INFO] database.db v2.* tables was cleared
+2020-01-19 10:01:08.045 [csServer-dtm] [INFO] &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&& MAIN SERVICE CREATE FINISH
+2020-01-19 10:01:08.048 [csServer-dtm] [INFO] NetWorkBroadcastReceiver mobile connected: true
+2020-01-19 10:01:08.051 [csServer-dtm] [INFO] tydrm device register starts
+2020-01-19 10:01:08.053 [csServer-dtm] [INFO] tydrm init before register starts
+2020-01-19 10:01:08.057 [csServer-dtm] [INFO] WIFI Portal update query update message: http://fessbm.gvmedia.com.cn/v1/csserver/wifi/portal/0.0.0
+2020-01-19 10:01:08.059 [csServer-dtm] [INFO] tydrm init return error code : -52, 请查看卡片是否插入
+2020-01-19 10:01:08.060 [csServer-dtm] [INFO] tydrm device register failed, init error: -52
+2020-01-19 10:01:08.061 [csServer-dtm] [INFO] CSServer update current version: 3.4.3.2018121101
+2020-01-19 10:01:08.063 [csServer-dtm] [INFO] CSServer update query version: 3.4.3
+2020-01-19 10:01:08.063 [csServer-dtm] [INFO] CSServer update query update message: http://fessbm.gvmedia.com.cn/v1/csserver/update/dtm/868770001675114/3.4.3
+2020-01-19 10:01:08.098 [csServer-dtm] [INFO] Start SilkWaveService from MainService
+2020-01-19 10:01:08.111 [csServer-dtm] [INFO] NetWorkBroadcastReceiver network type: 6
+2020-01-19 10:01:08.136 [csServer-dtm] [INFO] NetWorkBroadcastReceiver mobile connected: true
+2020-01-19 10:01:08.111 [csServer-dtm] [INFO] Network type: 6
+2020-01-19 10:01:08.143 [csServer-dtm] [INFO] Satellite status: 0 / 0 / 0
+2020-01-19 10:01:08.143 [csServer-dtm] [INFO] OutBandStrength: 0
+2020-01-19 10:01:08.144 [csServer-dtm] [INFO] LDPC status: 0 / 0
+2020-01-19 10:01:08.144 [csServer-dtm] [INFO] BC recv speed: 0 Mb/s / 0 Mb/s
+2020-01-19 10:01:08.243 [swServer-dtm] [INFO]ver update failed, need higher version
+2020-01-19 10:01:08.703 [swServer-dtm] [INFO] &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&& SILKWAVE SERVER STARTED
+2020-01-19 10:01:08.708 [swServer-dtm] [INFO] start upnp service
+2020-01-19 10:01:08.711 [swServer-dtm] [INFO] log upload when CSServer starting
+2020-01-19 10:01:08.713 [swServer-dtm] [INFO] log upload with delay: 0
+2020-01-19 10:01:08.714 [swServer-dtm] [INFO] &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&& SILKWAVE SERVICE CREATE FINISH
+2020-01-19 10:01:09.005 [swServer-dtm] [INFO] begin to regis UPnP service
+2020-01-19 10:01:09.860 [swServer-dtm] [INFO] log upload csServer.log.2020011016.3520 gzip success: csServer.log.2020011016.3520.gz
+2020-01-19 10:01:09.884 [swServer-dtm] [INFO] log upload swServer.log.2020011016.3520 gzip success: swServer.log.2020011016.3520.gz
+2020-01-19 10:01:09.892 [swServer-dtm] [INFO] log upload to: http://log.silkwave.tv:10080/v1/csserver/log/868770001675114
+2020-01-19 10:01:09.893 [swServer-dtm] [INFO] log upload csServer.log.2020011016.3520.gz begin
+2020-01-19 10:01:09.930 [csServer-dtm] [ERROR] ldpc change:48
+2020-01-19 10:01:10.012 [csServer-dtm-JNI] [INFO] 0-0 SeqFileMaker::makeSequenceFile(), seqId = 72609 fileCnt = 1 lostCnt = 0 made successfully. cost = 0 msec
+2020-01-19 10:01:10.014 [csServer-dtm] [INFO] 0-0 [SSG] BC got slt
+2020-01-19 10:01:10.242 [csServer-dtm] [INFO] SLS-3107 [VIDEO, 3107-0] &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&& CHANNEL START
+2020-01-19 10:01:10.242 [csServer-dtm-JNI] [INFO] 3107 StbMaker::run() is called, thread id is:-1220241328
+2020-01-19 10:01:10.248 [csServer-dtm-JNI] [INFO] 3107-0 ChannelManager::startLiveServiceChannel(), channelType = 1, mixType = 0, toleranceRate = 0
+2020-01-19 10:01:10.251 [csServer-dtm] [INFO] SLS-3108 [VIDEO, 3108-0] &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&& CHANNEL START
+2020-01-19 10:01:10.253 [csServer-dtm-JNI] [INFO] 3108 StbMaker::run() is called, thread id is:-1218967720
+2020-01-19 10:01:10.254 [csServer-dtm-JNI] [INFO] 3108-0 ChannelManager::startLiveServiceChannel(), channelType = 1, mixType = 0, toleranceRate = 0
+2020-01-19 10:01:10.257 [csServer-dtm] [INFO] SLS-3101 [AUDIO, 3101-0] &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&& CHANNEL START
+2020-01-19 10:01:10.257 [csServer-dtm-JNI] [INFO] 3101 StbMaker::run() is called, thread id is:-1218956880
+2020-01-19 10:01:10.258 [csServer-dtm-JNI] [INFO] 3101-0 ChannelManager::startLiveServiceChannel(), channelType = 1, mixType = 0, toleranceRate = 0
+2020-01-19 10:01:10.260 [csServer-dtm] [INFO] SLS-3102 [AUDIO, 3102-0] &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&& CHANNEL START
+2020-01-19 10:01:10.260 [csServer-dtm-JNI] [INFO] 3102 StbMaker::run() is called, thread id is:-1218948536
+2020-01-19 10:01:10.261 [csServer-dtm-JNI] [INFO] 3102-0 ChannelManager::startLiveServiceChannel(), channelType = 1, mixType = 0, toleranceRate = 0
+2020-01-19 10:01:10.263 [csServer-dtm] [INFO] SLS-3103 [AUDIO, 3103-0] &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&& CHANNEL START
+2020-01-19 10:01:10.264 [csServer-dtm-JNI] [INFO] 3103-0 ChannelManager::startLiveServiceChannel(), channelType = 1, mixType = 0, toleranceRate = 0
+2020-01-19 10:01:10.265 [csServer-dtm] [INFO] SLS-3104 [AUDIO, 3104-0] &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&& CHANNEL START
+2020-01-19 10:01:10.266 [csServer-dtm-JNI] [INFO] 3103 StbMaker::run() is called, thread id is:-1218938616
+2020-01-19 10:01:10.267 [csServer-dtm-JNI] [INFO] 3104 StbMaker::run() is called, thread id is:-1218925608
+2020-01-19 10:01:10.267 [csServer-dtm-JNI] [INFO] 3104-0 ChannelManager::startLiveServiceChannel(), channelType = 1, mixType = 0, toleranceRate = 0
+2020-01-19 10:01:10.269 [csServer-dtm] [INFO] SLS-3105 [AUDIO, 3105-0] &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&& CHANNEL START
+2020-01-19 10:01:10.269 [csServer-dtm-JNI] [INFO] 3105 StbMaker::run() is called, thread id is:-1218910144
+2020-01-19 10:01:10.270 [csServer-dtm-JNI] [INFO] 3105-0 ChannelManager::startLiveServiceChannel(), channelType = 1, mixType = 0, toleranceRate = 0
+2020-01-19 10:01:10.273 [csServer-dtm] [INFO] SLS-3106 [AUDIO, 3106-0] &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&& CHANNEL START
+2020-01-19 10:01:10.273 [csServer-dtm-JNI] [INFO] 3106 StbMaker::run() is called, thread id is:-1218905456
+2020-01-19 10:01:10.275 [csServer-dtm-JNI] [INFO] 3106-0 ChannelManager::startLiveServiceChannel(), channelType = 1, mixType = 0, toleranceRate = 0
+2020-01-19 10:01:10.276 [csServer-dtm] [INFO] SLS-1002 [BFP, 1022-0] &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&& CHANNEL START
+2020-01-19 10:01:10.277 [csServer-dtm-JNI] [INFO] 1022 StbMaker::run() is called, thread id is:-1218896816
+2020-01-19 10:01:10.277 [csServer-dtm-JNI] [INFO] 1022-0 ChannelManager::startLiveServiceChannel(), channelType = 1, mixType = 0, toleranceRate = 0
+2020-01-19 10:01:10.279 [csServer-dtm] [INFO] SLS-1003 [BFP, 1013-0] &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&& CHANNEL START
+2020-01-19 10:01:10.279 [csServer-dtm-JNI] [INFO] 1013 StbMaker::run() is called, thread id is:-1218888128
+2020-01-19 10:01:10.280 [csServer-dtm-JNI] [INFO] 1013-0 ChannelManager::startLiveServiceChannel(), channelType = 1, mixType = 0, toleranceRate = 0
+2020-01-19 10:01:10.281 [csServer-dtm] [INFO] SLS-500 [SG, 500-0] &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&& CHANNEL START
+2020-01-19 10:01:10.281 [csServer-dtm-JNI] [INFO] 500 StbMaker::run() is called, thread id is:-1218879472
+2020-01-19 10:01:10.282 [csServer-dtm-JNI] [INFO] 500-0 ChannelManager::startLiveServiceChannel(), channelType = 1, mixType = 0, toleranceRate = 0
+2020-01-19 10:01:10.285 [csServer-dtm] [INFO] SLS-501 [SPT, 501-0] &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&& CHANNEL START
+2020-01-19 10:01:10.286 [csServer-dtm-JNI] [INFO] 501 StbMaker::run() is called, thread id is:-1218870808
+2020-01-19 10:01:10.286 [csServer-dtm-JNI] [INFO] 501-0 ChannelManager::startLiveServiceChannel(), channelType = 1, mixType = 0, toleranceRate = 0
+2020-01-19 10:01:10.288 [csServer-dtm] [INFO] SLS-1012 [PL, 1012-0] &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&& CHANNEL START
+2020-01-19 10:01:10.289 [csServer-dtm-JNI] [INFO] 1012 StbMaker::run() is called, thread id is:-1218862176
+2020-01-19 10:01:10.289 [csServer-dtm-JNI] [INFO] 1012-0 ChannelManager::startLiveServiceChannel(), channelType = 1, mixType = 0, toleranceRate = 0
+2020-01-19 10:01:10.292 [csServer-dtm] [INFO] SLS-1001 [BFP, 1021-0] &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&& CHANNEL START
+2020-01-19 10:01:10.293 [csServer-dtm-JNI] [INFO] 1021-0 ChannelManager::startLiveServiceChannel(), channelType = 1, mixType = 0, toleranceRate = 0
+2020-01-19 10:01:10.293 [csServer-dtm-JNI] [INFO] 1021 StbMaker::run() is called, thread id is:-1218853528
+2020-01-19 10:01:10.295 [csServer-dtm] [INFO] SLS-1011 [PL, 1011-0] &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&& CHANNEL START
+2020-01-19 10:01:10.295 [csServer-dtm-JNI] [INFO] 1011 StbMaker::run() is called, thread id is:-1218845304
+2020-01-19 10:01:10.296 [csServer-dtm-JNI] [INFO] 1011-0 ChannelManager::startLiveServiceChannel(), channelType = 1, mixType = 0, toleranceRate = 0
+2020-01-19 10:01:10.298 [csServer-dtm] [INFO] SLS-3109 [VIDEO, 3109-0] &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&& CHANNEL START
+2020-01-19 10:01:10.299 [csServer-dtm-JNI] [INFO] 3109-0 ChannelManager::startLiveServiceChannel(), channelType = 1, mixType = 0, toleranceRate = 0
+2020-01-19 10:01:10.301 [csServer-dtm] [INFO] SLS-3110 [VIDEO, 3110-0] &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&& CHANNEL START
+2020-01-19 10:01:10.301 [csServer-dtm-JNI] [INFO] 3109 StbMaker::run() is called, thread id is:-1218836208
+2020-01-19 10:01:10.301 [csServer-dtm-JNI] [INFO] 3110-0 ChannelManager::startLiveServiceChannel(), channelType = 1, mixType = 0, toleranceRate = 0
+2020-01-19 10:01:10.302 [csServer-dtm-JNI] [INFO] 3110 StbMaker::run() is called, thread id is:-1218830560
+2020-01-19 10:01:10.304 [csServer-dtm] [INFO] SLS-3111 [VIDEO, 3111-0] &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&& CHANNEL START
+2020-01-19 10:01:10.305 [csServer-dtm-JNI] [INFO] 3111-0 ChannelManager::startLiveServiceChannel(), channelType = 1, mixType = 0, toleranceRate = 0
+2020-01-19 10:01:10.306 [csServer-dtm-JNI] [INFO] 3111 StbMaker::run() is called, thread id is:-1218818960
+2020-01-19 10:01:10.307 [csServer-dtm] [INFO] SLS-3112 [VIDEO, 3112-0] &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&& CHANNEL START
+2020-01-19 10:01:10.307 [csServer-dtm-JNI] [INFO] 3112 StbMaker::run() is called, thread id is:-1218810792
+2020-01-19 10:01:10.309 [csServer-dtm-JNI] [INFO] 3112-0 ChannelManager::startLiveServiceChannel(), channelType = 1, mixType = 0, toleranceRate = 0
+2020-01-19 10:01:11.672 [csServer-dtm-JNI] [INFO] 1012 StbMaker::makeStb(), 0 STBs crc is not correct.
+2020-01-19 10:01:11.682 [csServer-dtm-JNI] [INFO] 3111-0 SeqFileMaker::makeSequenceFile(), seqId = 72610 fileCnt = 1 lostCnt = 0 made successfully. cost = 0 msec
+2020-01-19 10:01:11.684 [csServer-dtm] [INFO] SLS-3111 [VIDEO, 3111-0] BC got sls
+2020-01-19 10:01:11.794 [csServer-dtm-JNI] [INFO] 3101-0 SeqFileMaker:er-dtm] [INFO] Network type: 6
+2020-01-19 10:01:12.049 [csServer-dtm] [INFO] Satellite status: 1 / 45 / 66
+2020-01-19 10:01:12.050 [csServer-dtm] [INFO] OutBandStrength: 5
+2020-01-19 10:01:12.051 [csServer-dtm] [INFO] LDPC status: 1180 / 130
+2020-01-19 10:01:12.052 [csServer-dtm] [INFO] BC recv speed: 2.93 Mb/s / 2.44 Mb/s
+2020-01-19 10:01:12.069 [csServer-dtm] [INFO] 503-0 begin to start spt channel
+2020-01-19 10:01:12.072 [csServer-dtm-JNI] [INFO] 503 StbMaker::run() is called, thread id is:-1218717152
+2020-01-19 10:01:12.072 [csServer-dtm] [INFO] 503-0 [SPT] &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&& CHANNEL START
+2020-01-19 10:01:12.074 [csServer-dtm-JNI] [INFO] 503-0 ChannelManager::startLiveServiceChannel(), channelType = 1, mixType = 0, toleranceRate = 0
+2020-01-19 10:01:12.076 [csServer-dtm] [INFO] SLS-501 [SPT, 501-0] &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&& CHANNEL STOP
+2020-01-19 10:01:12.077 [csServer-dtm-JNI] [INFO] 501-0 ChannelManager::stopLiveServiceChannel()
+2020-01-19 10:01:12.078 [csServer-dtm-JNI] [INFO] 501-0 ChannelManager::stopChannel(), stbMaker.stop is not called. tsId = 501.
+&&&&&&&&&&&&&&&&&&&&&&& CHANNEL STOP
+2020-01-19 10:01:12.105 [csServer-dtm-JNI] [INFO] 3212 StbMaker::run() is called, thread id is:-1218667648
+2020-01-19 10:01:12.107 [csServer-dtm-JNI] [INFO] 3112-0 ChannelManager::stopLiveServiceChannel()
+2020-01-19 10:01:12.110 [csServer-dtm-JNI] [INFO] 3112-0 ChannelManager::stopChannel(), stbMaker.stop is not called. tsId = 3112.
+2020-01-19 10:01:12.130 [csServer-dtm] [INFO] 3201-0 [AUDIO] change zip mode from false to true
+2020-01-19 10:01:12.131 [csServer-dtm-JNI] [INFO] 3201 StbMaker::run() is called, thread id is:-1218663032
+2020-01-19 10:01:12.131 [csServer-dtm] [INFO] SLS-3101 [AUDIO, 3101-0] &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&& CHANNEL STOP
+2020-01-19 10:01:12.132 [csServer-dtm-JNI] [INFO] 3101-0 ChannelManager::stopLiveServiceChannel()
+2020-01-19 10:01:12.133 [csServer-dtm-JNI] [INFO] 3101-0 ChannelManager::stopChannel(), stbMaker.stop is not called. tsId = 3101.
+2020-01-19 10:01:12.145 [csServer-dtm] [INFO] 3206-0 [AUDIO] change zip mode from false to true
+2020-01-19 10:01:12.149 [csServer-dtm] [INFO] SLS-3106 [AUDIO, 3106-0] &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&& CHANNEL STOP
+2020-01-19 10:01:12.148 [csServer-dtm-JNI] [INFO] 3206 StbMaker::run() is called, thread id is:-1218669920
+2020-01-19 10:01:12.153 [csServer-dtm-JNI] [INFO] 3106-0 ChannelManager::stopLiveServiceChannel()
+2020-01-19 10:01:12.156 [csServer-dtm-JNI] [INFO] 3106-0 ChannelManager::stopChannel(), stbMaker.stop is not called. tsId = 3106.
+2020-01-19 10:01:12.158 [csServer-dtm] [INFO] 502-0 begin to start sg channel
+2020-01-19 10:01:12.163 [csServer-dtm] [INFO] 502-0 [SG] &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&& CHANNEL START
+2020-01-19 10:01:12.172 [csServer-dtm-JNI] [INFO] 502-0 ChannelManager::startLiveServiceChannel(), channelType = 1, mixType = 0, toleranceRate = 0
+2020-01-19 10:01:12.174 [csServer-dtm] [INFO] 3210-0 [VIDEO] change zip mode from false to true
+2020-01-19 10:01:12.176 [csServer-dtm] [INFO] SLS-500 [SG, 500-0] &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&& CHANNEL STOP
+2020-01-19 10:01:12.176 [csServer-dtm] [INFO] SLS-3110 [VIDEO, 3110-0] &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&& CHANNEL STOP
+2020-01-19 10:01:12.174 [csServer-dtm-JNI] [INFO] 502 StbMaker::run() is called, thread id is:-1218654624
+2020-01-19 10:01:12.180 [csServer-dtm-JNI] [INFO] 3210 StbMaker::run() is called, thread id is:-1218900880
+2020-01-19 10:01:12.180 [csServer-dtm-JNI] [INFO] 500-0 ChannelManager::stopLiveServiceChannel()
+2020-01-19 10:01:12.180 [csServer-dtm-JNI] [INFO] 3110-0 ChannelManager::stopLiveServiceChannel()
+2020-01-19 10:01:12.183 [csServer-dtm-JNI] [INFO] 3110-0 ChannelManager::stopChannel(), stbMaker.stop is not called. tsId = 3110.
+2020-01-19 10:01:12.184 [csServer-dtm-JNI] [INFO] 502-0 DldWorkThread::run(), taskId = 2, seqId = 0 begin to down:http://fessbm.gvmedia.com.cn:80/v1/silkwave/sg
+2020-01-19 10:01:12.183 [csServer-dtm-JNI] [INFO] 500-0 ChannelManager::stopChannel(), stbMaker.stop is not called. tsId = 500.
+2020-01-19 10:01:12.193 [csServer-dtm] [INFO] 3211-0 [VIDEO] change zip mode from false to true
+2020-01-19 10:01:12.193 [csServer-dtm] [INFO] SLS-3111 [VIDEO, 3111-0] &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&& CHANNEL STOP
+2020-01-19 10:01:12.194 [csServer-dtm-JNI] [INFO] 3211 StbMaker::run() is called, thread id is:-1218639872
+2020-01-19 10:01:12.194 [csServer-dtm-JNI] [INFO] 3111-0 ChannelManager::stopLiveServiceChannel()
+2020-01-19 10:01:12.196 [csServer-dtm-JNI] [INFO] 3111-0 ChannelManager::stopChannel(), stbMaker.stop is not called. tsId = 3111.
+2020-01-19 10:01:12.222 [csServer-dtm] [INFO] 3204-0 [AUDIO] change zip mode from false to true
+2020-01-19 10:01:12.223 [csServer-dtm] [INFO] SLS-3104 [AUDIO, 3104-0] &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&& CHANNEL STOP
+2020-01-19 10:01:12.224 [csServer-dtm-JNI] [INFO] 3104-0 ChannelManager::stopLiveServiceChannel()
+2020-01-19 10:01:12.224 [csServer-dtm-JNI] [INFO] 3104-0 ChannelManager::stopChannel(), stbMaker.stop is not called. tsId = 3104.
+2020-01-19 10:01:12.225 [csServer-dtm-JNI] [INFO] 3204 StbMaker::run() is called, thread id is:-1218817144
+2020-01-19 10:01:12.235 [csServer-dtm] [INFO] 3205-0 [AUDIO] change zip mode from false to true
+2020-01-19 10:01:12.235 [csServer-dtm] [INFO] SLS-3105 [AUDIO, 3105-0] &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&& CHANNEL STOP
+2020-01-19 10:01:12.235 [csServer-dtm-JNI] [INFO] 3205 StbMaker::run() is called, thread id is:-1218620984
+2020-01-19 10:01:12.236 [csServer-dtm-JNI] [INFO] 3105-0 ChannelManager::stopLiveServiceChannel()
+2020-01-19 10:01:12.238 [csServer-dtm-JNI] [INFO] 3105-0 ChannelManager::stopChannel(), stbMaker.stop is not called. tsId = 3105.
+2020-01-19 10:01:12.248 [csServer-dtm] [WARN] SLS-3107 [VIDEO, 3107-0] stream url is null
+2020-01-19 10:01:12.249 [csServer-dtm] [INFO] slsManager begin to get http sls
+2020-01-19 10:01:12.255 [csServer-dtm] [WARN] SLS-3108 [VIDEO, 3108-0] stream url is null
+2020-01-19 10:01:12.256 [csServer-dtm] [INFO] slsManager begin to get http sls
+2020-01-19 10:01:12.261 [csServer-dtm] [WARN] SLS-3102 [AUDIO, 3102-0] stream url is null
+2020-01-19 10:01:12.262 [csServer-dtm] [INFO] slsManager begin to get http sls
+2020-01-19 10:01:12.278 [csServer-dtm] [WARN] SLS-1002 [BFP, 1022-0] stream url is null
+2020-01-19 10:01:12.280 [csServer-dtm] [WARN] SLS-1003 [BFP, 1013-0] stream url is null
+2020-01-19 10:01:12.281 [csServer-dtm] [INFO] slsManager begin to get http sls
+2020-01-19 10:01:12.282 [csServer-dtm] [INFO] slsManager begin to get http sls
+2020-01-19 10:01:12.290 [csServer-dtm] [WARN] SLS-1012 [PL, 1012-0] stream url is null
+2020-01-19 10:01:12.291 [csServer-dtm] [INFO] slsManager begin to get http sls
+2020-01-19 10:01:12.294 [csServer-dtm] [WARN] SLS-1001 [BFP, 1021-0] stream url is null
+2020-01-19 10:01:12.295 [csServer-dtm] [INFO] slsManager begin to get http sls
+2020-01-19 10:01:12.296 [csServer-dtm] [WARN] SLS-1011 [PL, 1011-0] stream url is null
+2020-01-19 10:01:12.299 [csServer-dtm] [INFO] slsManager begin to get http sls
+2020-01-19 10:01:12.299 [csServer-dtm] [WARN] SLS-3109 [VIDEO, 3109-0] stream url is null
+2020-01-19 10:01:12.300 [csServer-dtm] [INFO] slsManager begin to get http sls
+2020-01-19 10:01:12.548 [csServer-dtm] [INFO] 503-0 [SPT] got 4G data,dldSize is:71837 bcSize is:0
+2020-01-19 10:01:12.612 [csServer-dtm-JNI] [INFO] 3205 StbMaker::makeStb(), 0 STBs crc is not correct.
+2020-01-19 10:01:12.634 [csServer-dtm] [INFO] 503-0 [SPT] &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&& CHANNEL STOP
+2020-01-19 10:01:12.636 [csServer-dtm-JNI] [INFO] 503-0 ChannelManager::stopLiveServiceChannel()
+2020-01-19 10:01:12.637 [csServer-dtm-JNI] [INFO] 503-0 ChannelManager::stopChannel(), stbMaker.stop ] [INFO] 3204-0 MediaChannel::handleCachedStbs(), index = 3, seqId = -1
+2020-01-19 10:01:12.691 [csServer-dtm-JNI] [INFO] 3204-0 MediaChannel::handleCachedStbs(), index = 4, seqId = -1
+2020-01-19 10:01:12.692 [csServer-dtm-JNI] [INFO] 3204-0 MediaChannel::handleCachedStbs(), index = 5, seqId = -1
+2020-01-19 10:01:12.693 [csServer-dtm-JNI] [INFO] 3204-0 MediaChannel::handleCachedStbs(), index = 6, seqId = -1
+2020-01-19 10:01:12.694 [csServer-dtm-JNI] [INFO] 3204-0 MediaChannel::handleCachedStbs(), index = 7, seqId = -1
+2020-01-19 10:01:12.695 [csServer-dtm-JNI] [INFO] 3204-0 MediaChannel::handleCachedStbs(), index = 8, seqId = -1
+2020-01-19 10:01:12.696 [csServer-dtm-JNI] [INFO] 3204-0 MediaChannel::handleCachedStbs(), index = 9, seqId = -1
+2020-01-19 10:01:12.698 [csServer-dtm] [INFO] 3207-0 [VIDEO] change zip mode from false to true
+2020-01-19 10:01:12.699 [csServer-dtm-JNI] [INFO] 3207 StbMaker::run() is called, thread id is:-1218481160
+2020-01-19 10:01:12.700 [csServer-dtm] [INFO] 3204-0 [AUDIO] FES_SEQ sync task start delay: 500ms
+2020-01-19 10:01:12.701 [csServer-dtm] [INFO] SLS-3107 [VIDEO, 3107-0] &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&& CHANNEL STOP
+2020-01-19 10:01:12.702 [csServer-dtm-JNI] [INFO] 3107-0 ChannelManager::stopLiveServiceChannel()
+2020-01-19 10:01:12.703 [csServer-dtm-JNI] [INFO] 3107-0 ChannelManager::stopChannel(), stbMaker.stop is not called. tsId = 3107.
+2020-01-19 10:01:12.710 [csServer-dtm] [INFO] 3204-0 [AUDIO] waiting for playlist
+2020-01-19 10:01:12.721 [csServer-dtm-JNI] [INFO] 3212 StbMaker::makeStb(), 0 STBs crc is not correct.
+2020-01-19 10:01:13.001 [csServer-dtm] [INFO] 502-0 [SG] got 4G data,dldSize is:595559 bcSize is:0
+2020-01-19 10:01:13.201 [csServer-dtm] [INFO] 3204-0 [AUDIO] FES_SEQ sync task try 1 time(s)
+2020-01-19 10:01:13.365 [csServer-dtm-JNI] [INFO] 3211 StbMaker::makeStb(), 0 STBs crc is not correct.
+2020-01-19 10:01:13.428 [swServer-dtm] [INFO] log upload csServer.log.2020011016.3520.gz success
+2020-01-19 10:01:13.440 [csServer-dtm] [INFO] 3204-0 [AUDIO] FES_SEQ sync by rest api response: {"id" : 83565}
+2020-01-19 10:01:13.444 [swServer-dtm] [INFO] log upload csServer.log.2020011016.3520.gz deleted
+2020-01-19 10:01:13.452 [0-01-19 10:01:13.532 [csServer-dtm-JNI] [INFO] 1013-0 ChannelManager::stopChannel(), stbMaker.stop is not called. tsId = 1013.
+2020-01-19 10:01:13.548 [csServer-dtm-JNI] [INFO] 1003 StbMaker::run() is called, thread id is:-1218491640
+2020-01-19 10:01:13.560 [swServer-dtm] [INFO] log upload swServer.log.2020011016.3520.gz success
+2020-01-19 10:01:13.560 [csServer-dtm] [INFO] 3209-0 [VIDEO] change zip mode from false to true
+2020-01-19 10:01:13.561 [csServer-dtm] [INFO] SLS-3109 [VIDEO, 3109-0] &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&& CHANNEL STOP
+2020-01-19 10:01:13.563 [csServer-dtm-JNI] [INFO] 3109-0 ChannelManager::stopLiveServiceChannel()
+2020-01-19 10:01:13.564 [csServer-dtm-JNI] [INFO] 3109-0 ChannelManager::stopChannel(), stbMaker.stop is not called. tsId = 3109.
+2020-01-19 10:01:13.565 [swServer-dtm] [INFO] log upload swServer.log.2020011016.3520.gz deleted
+2020-01-19 10:01:13.571 [swServer-dtm] [INFO] log upload swServer.log.2020011016.3520 deleted
+2020-01-19 10:01:13.572 [swServer-dtm] [INFO] log upload csServer.log.2020011015.9999.gz begin
+2020-01-19 10:01:13.572 [csServer-dtm-JNI] [INFO] 3209 StbMaker::run() is called, thread id is:-1218338472
+2020-01-19 10:01:13.578 [csServer-dtm] [INFO] raptor server url is:http://fessbm.gvmedia.com.cn:80/v2/raptor
+2020-01-19 10:01:13.579 [csServer-dtm] [INFO] 1002 [BFP DESC] start Raptor Description Channel
+2020-01-19 10:01:13.579 [csServer-dtm] [INFO] 1002 [BFP DESC] &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&& CHANNEL START
+2020-01-19 10:01:13.580 [csServer-dtm-JNI] [INFO] 1002 ChannelManager::startRaptorDespChannel()
+2020-01-19 10:01:13.581 [csServer-dtm] [INFO] SLS-1002 [BFP, 1022-0] &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&& CHANNEL STOP
+2020-01-19 10:01:13.582 [csServer-dtm-JNI] [INFO] 1022-0 ChannelManager::stopLiveServiceChannel()
+2020-01-19 10:01:13.585 [csServer-dtm-JNI] [INFO] 1022-0 ChannelManager::stopChannel(), stbMaker.stop is not called. tsId = 1022.
+2020-01-19 10:01:13.593 [csServer-dtm-JNI] [INFO] 1002 StbMaker::run() is called, thread id is:-1218341072
+2020-01-19 10:01:13.643 [csServer-dtm] [INFO] 3208-0 [VIDEO] change zip mode from false to true
+2020-01-19 10:01:13.646 [csServer-dtm] [INFO] SLS-3108 [VIDEO, 3108-0] &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&& CHANNEL STOP
+2020-01-19 10:01:13.645 [csServer-dtm-JNI] [INFO] 3208 StbMaker::run() is called, thread id is:-1218348752
+2020-01-19 10:01:13.646 [csServer-dtm-JNI] [INFO] 3108-0 ChannelManager::stopLiveServiceChannel()
+2020-01-19 10:01:13.651 [csServer-dtm-JNI] [INFO] 3108-0 ChannelManager::stopChannel(), stbMaker.stop is not called. tsId = 3108.
+2020-01-19 10:01:13.675 [csServer-dtm-JNI] [INFO] 3209 StbMaker::makeStb(), 0 STBs crc is not correct.
+2020-01-19 10:01:13.681 [csServer-dtm-JNI] [INFO] 3206 StbMaker::makeStb(), 0 STBs crc is not correct.
+2020-01-19 10:01:13.827 [csServer-dtm] [INFO] 3204-0 [AUDIO] FES_SEQ sync first time from 4G: 83565
+2020-01-19 10:01:13.828 [csServer-dtm] [INFO] 3204-0 [AUDIO] update FES_SEQ(0) with Seq:83565
+2020-01-19 10:01:13.828 [csServer-dtm] [INFO] 3204-0 [AUDIO] update INFERRED_FES_SEQ(1) with Seq:83565
+2020-01-19 10:01:13.829 [csServer-dtm] [INFO] 3204-0 [AUDIO] update ANTICIPATED_SEQ(1) with Seq:83565
+2020-01-19 10:01:13.833 [csServer-dtm] [INFO] 3204-0 [AUDIO] add downloader seq:83556 OK, task:3
+2020-01-19 10:01:13.834 [csServer-dtm-JNI] [INFO] 3204-0 DldWorkThread::run(), taskId = 3, seqId = 83556 begin to down:http://fessbm.gvmedia.com.cn:80/stb/getstb2?CTS_ID=3204&REQ_SEQ=0&ISS_ID=0&GET_MODE=0&FILE_SEQ=83556
+2020-01-19 10:01:13.835 [csServer-dtm-JNI] [INFO] 3204-0 DldWorkThread::run(), taskId = 4, seqId = 83557 begin to down:http://fessbm.gvmedia.com.cn:80/stb/getstb2?CTS_ID=3204&REQ_SEQ=1&ISS_ID=0&GET_MODE=0&FILE_SEQ=83557
+2020-01-19 10:01:13.834 [csServer-dtm] [INFO] 3204-0 [AUDIO] add downloader seq:83557 OK, task:4
+2020-01-19 10:01:13.849 [csServer-dtm-JNI] [INFO] 3204-0 DldWorkThread::run(), taskId = 5, seqId = 83558 begin to down:http://fessbm.gvmedia.com.cn:80/stb/getstb2?CTS_ID=3204&REQ_SEQ=2&ISS_ID=0&GET_MODE=0&FILE_SEQ=83558
+2020-01-19 10:01:13.850 [csServer-dtm] [INFO] 3204-0 [AUDIO] add downloader seq:83558 OK, task:5
+2020-01-19 10:01:13.911 [csServer-dtm-JNI] [INFO] 3202 StbMaker::makeStb(), 0 STBs crc is not correct.
+2020-01-19 10:01:13.913 [csServer-dtm-JNI] [INFO] 3210 StbMaker::makeStb(), 0 STBs crc is not correct.
+2020-01-19 10:01:14.032 [csServer-dtm] [INFO] 3204-0 [AUDIO] add downloader seq:83559 OK, task:6
+2020-01-19 10:01:14.034 [csServer-dtm] [INFO] 3204-0 [AUDIO] add downloader seq:83560 OK, task:7
+2020-01-19 10:01:14.035 [csServer-dtm] [INFO] 3204-0 [AUDIO] add downloader seq:83561 OK, task:8
+2020-01-19 10:01:14.038 [csServer-dtm-JNI] [INFO] 3207 StbMaker::makeStb(), 0 STBs crc is not correct.
+2020-01-19 10:01:14.038 [csServer-dtm-JNI] [INFO] 1011 StbMaker::makeStb(), 0 STBs crc is not correct.
+2020-01-19 10:01:14.039 [csServer-dtm-JNI] [INFO] 3204-0 DldWorkThread::run(), taskId = 7, seqId = 83560 begin to down:http://fessbm.gvmedia.com.cn:80/stb/getstb2?CTS_ID=3204&REQ_SEQ=4&ISS_ID=0&GET_MODE=0&FILE_SEQ=83560
+2020-01-19 10:01:14.039 [csServer-dtm-JNI] [INFO] 3204-0 DldWorkThread::run(), taskId = 6, seqId = 83559 begin to down:http://fessbm.gvmedia.com.cn:80/stb/getstb2?CTS_ID=3204&REQ_SEQ=3&ISS_ID=0&GET_MODE=0&FILE_SEQ=83559
+2020-01-19 10:01:14.041 [csServer-dtm-JNI] [INFO] 3204-0 DldWorkThread::run(), taskId = 8, seqId = 83561 begin to down:http://fessbm.gvmedia.com.cn:80/stb/getstb2?CTS_ID=3204&REQ_SEQ=5&ISS_ID=0&GET_MODE=0&FILE_SEQ=83561
+2020-01-19 10:01:14.041 [csServer-dtm-JNI] [INFO] 1013 StbMaker::makeStb(), 0 STBs crc is not correct.
+2020-01-19 10:01:14.086 [csServer-dtm] [INFO] SLS-3112 [VIDEO, 3112-0] ESG_CHANGE broadcast sent
+2020-01-19 10:01:14.130 [csServer-dtm] [ERROR] ldpc change:75
+2020-01-19 10:01:14.164 [csServer-dtm-JNI] [INFO] 3204-0 SeqFileMaker::makeSequenceFile(), seqId = 83556 fileCnt = 9 lostCnt = 0 made successfully. cost = 331 msec
+2020-01-19 10:01:14.168 [csServer-dtm] [INFO] 3204-0 [AUDIO] waiting for playlist
+2020-01-19 10:01:14.179 [csServer-dtm] [INFO] 3204-0 [AUDIO] httpRecvBytes increase 8503 to 8503(8503)
+2020-01-19 10:01:14.181 [csServer-dtm] [INFO] 3204-0 [AUDIO] httpUsedTime increase 329 to 329(329)
+2020-01-19 10:01:14.185 [csServer-dtm] [INFO] 3204-0 [AUDIO] download seq:83556 OK,using time:329,taskId:3,gzip:true,dataLen:8503,bcSize:0,dldSize:8503
+2020-01-19 10:01:14.213 [csServer-dtm] [INFO] 3204-0 [AUDIO] httpDownloadNumber increase 1 to 1(1)
+2020-01-19 10:01:14.215 [csServer-dtm] [INFO] 3204-0 [AUDIO] cache number is: 1
+2020-01-19 10:01:14.216 [csServer-dtm] [INFO] 3204-0 [AUDIO] cache list is: [83556]

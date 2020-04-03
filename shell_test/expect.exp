@@ -1,0 +1,34 @@
+#!/usr/bin/expect
+set timeout 5
+set fes_i_ip [lindex $argv 0]
+set fes_i_password [lindex $argv 1]
+set fes_m_ip [lindex $argv 2]
+set fes_m_password [lindex $argv 3]
+spawn ssh root@$fes_i_ip
+expect {
+  "yes/no" {send "yes\n";exp_continue}
+  "password:" {send "$fes_i_password\n"}
+}
+expect "]*"
+send "mkdir /opt/rh/temp;cd /opt/rh/temp\r"
+expect "]*"
+send "wget  ftp://192.168.10.27/fes-dependence/fes-i.sh --ftp-user=jekins --ftp-password=jekins\r"
+expect "]*"
+send "chmod a+x fes-i.sh\n"
+expect "]*"
+send "./fes-i.sh\n"
+expect "]*"
+spawn ssh root@$fes_m_ip
+expect {
+  "yes/no" {send "yes\n";exp_continue}
+  "password:" {send "$fes_m_password\n"}
+}
+expect "]*"
+send "mkdir /opt/rh/temp;cd /opt/rh/temp\r"
+expect "]*"
+send "wget  ftp://192.168.10.27/fes-dependence/fes-m.sh --ftp-user=jekins --ftp-password=jekins\r"
+expect "]*"
+send "chmod a+x fes-m.sh\n"
+expect "]*"
+send "./fes-m.sh\n"
+interact

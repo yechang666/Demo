@@ -1,0 +1,6 @@
+1	id
+2	name
+3	data
+4	status
+5	sex
+6	

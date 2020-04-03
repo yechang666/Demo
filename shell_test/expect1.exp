@@ -1,0 +1,50 @@
+#!/usr/bin/expect
+set timeout 5
+spawn ssh root@$1
+#expect "*password:"
+#send "123456\r"
+expect {
+  "yes/no" {send "yes\n";exp_continue}
+  "password:" {send "123456\n"}
+}
+expect "]*"
+send "cd /opt/rh\r"
+expect "]*"
+send "wget  ftp://192.168.10.27/fes-dependence/fes-i.sh --ftp-user=jekins --ftp-password=jekins\r"
+#send "scp root@192.168.10.208:/opt/opt/shell_test/fes-i.sh .\r"
+#expect "*password:"
+#send "123456\r"
+expect {
+  "yes/no" {send "yes\n";exp_continue}
+  "password:" {send "123456\n"}
+}
+expect "]*"
+send "chmod a+x fes-i.sh\n"
+expect "]*"
+send "./fes-i.sh\n"
+expect "]*"
+spawn ssh root@$2
+#expect "*password:"
+#send "123456\r"
+expect {
+  "yes/no" {send "yes\n";exp_continue}
+  "password:" {send "123456\n"}
+}
+expect "]*"
+send "cd /opt/rh\r"
+expect "]*"
+send "pwd\r"
+expect "]*"
+send "wget  ftp://192.168.10.27/fes-dependence/fes-m.sh --ftp-user=jekins --ftp-password=jekins\r"
+#send "scp root@192.168.10.208:/opt/opt/shell_test/fes-m.sh .\r"
+#expect "*password:"
+#send "123456\r"
+expect {
+  "yes/no" {send "yes\n";exp_continue}
+  "password:" {send "123456\n"}
+}
+expect "]*"
+send "chmod a+x fes-m.sh\n"
+expect "]*"
+send "./fes-m.sh\n"
+interact

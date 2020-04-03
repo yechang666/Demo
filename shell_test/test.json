@@ -1,0 +1,12660 @@
+{
+version: 1,
+date: "2019-07-26 08:00:00",
+MeteorologyInfo: [
+{
+id: "tag:gvmedia.com.cn,2017:silkwave/meteorology/sea/nanhaizhongdongbu",
+imageUri: "tag:gvmedia.com.cn,2017:silkwave/icons/hs/nanhaizhongdongbu.png",
+Name: [
+{
+lang: "zh-CN",
+text: "南海中东部"
+},
+{
+text: "Middle East of South China Sea"
+}
+],
+VoiceCast: [
+{
+cdsPath: "/app/seameteorology/en/nanhaizhongdongbu.ts"
+},
+{
+lang: "zh-CN",
+cdsPath: "/app/seameteorology/zh-CN/nanhaizhongdongbu.ts"
+}
+],
+Info: [
+{
+title: "07/26 白天",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "多云"
+},
+{
+rowkey: "气温",
+rowval: "28.5 ℃"
+},
+{
+rowkey: "气压",
+rowval: "999.1 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "75.6 %"
+},
+{
+rowkey: "风向",
+rowval: "西南风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "西南"
+},
+{
+rowkey: "风浪波高",
+rowval: "1.3 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "东北"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.4 m"
+},
+{
+rowkey: "浪向",
+rowval: "西南"
+},
+{
+rowkey: "浪高",
+rowval: "1.2 m"
+}
+]
+},
+{
+title: "Jul. 26 Day",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Cloudy"
+},
+{
+rowkey: "Temperature",
+rowval: "28.5 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "999.1 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "75.6 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "SW"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SW"
+},
+{
+rowkey: "WVHGT",
+rowval: "1.3 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "NE"
+},
+{
+rowkey: "SWELL",
+rowval: "0.4 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "SW"
+},
+{
+rowkey: "HTSGW",
+rowval: "1.2 m"
+}
+]
+},
+{
+title: "07/26 夜间",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "小雨"
+},
+{
+rowkey: "气温",
+rowval: "28.5 ℃"
+},
+{
+rowkey: "气压",
+rowval: "999.1 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "78.4 %"
+},
+{
+rowkey: "风向",
+rowval: "西南风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "西南"
+},
+{
+rowkey: "风浪波高",
+rowval: "1.4 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "西南"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.8 m"
+},
+{
+rowkey: "浪向",
+rowval: "西南"
+},
+{
+rowkey: "浪高",
+rowval: "1.4 m"
+}
+]
+},
+{
+title: "Jul. 26 Night",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Light rain"
+},
+{
+rowkey: "Temperature",
+rowval: "28.5 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "999.1 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "78.4 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "SW"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SW"
+},
+{
+rowkey: "WVHGT",
+rowval: "1.4 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "SW"
+},
+{
+rowkey: "SWELL",
+rowval: "0.8 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "SW"
+},
+{
+rowkey: "HTSGW",
+rowval: "1.4 m"
+}
+]
+},
+{
+title: "07/27 白天",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "小雨"
+},
+{
+rowkey: "气温",
+rowval: "28.6 ℃"
+},
+{
+rowkey: "气压",
+rowval: "998.2 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "79.3 %"
+},
+{
+rowkey: "风向",
+rowval: "西南风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "西南"
+},
+{
+rowkey: "风浪波高",
+rowval: "1.1 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "西南"
+},
+{
+rowkey: "涌浪波高",
+rowval: "1.1 m"
+},
+{
+rowkey: "浪向",
+rowval: "西南"
+},
+{
+rowkey: "浪高",
+rowval: "1.2 m"
+}
+]
+},
+{
+title: "Jul. 27 Day",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Light rain"
+},
+{
+rowkey: "Temperature",
+rowval: "28.6 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "998.2 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "79.3 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "SW"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SW"
+},
+{
+rowkey: "WVHGT",
+rowval: "1.1 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "SW"
+},
+{
+rowkey: "SWELL",
+rowval: "1.1 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "SW"
+},
+{
+rowkey: "HTSGW",
+rowval: "1.2 m"
+}
+]
+},
+{
+title: "07/27 夜间",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "多云"
+},
+{
+rowkey: "气温",
+rowval: "28.5 ℃"
+},
+{
+rowkey: "气压",
+rowval: "998.8 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "79.2 %"
+},
+{
+rowkey: "风向",
+rowval: "南风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "西南"
+},
+{
+rowkey: "风浪波高",
+rowval: "1.0 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "西南"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.9 m"
+},
+{
+rowkey: "浪向",
+rowval: "西南"
+},
+{
+rowkey: "浪高",
+rowval: "1.0 m"
+}
+]
+},
+{
+title: "Jul. 27 Night",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Cloudy"
+},
+{
+rowkey: "Temperature",
+rowval: "28.5 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "998.8 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "79.2 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "S"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SW"
+},
+{
+rowkey: "WVHGT",
+rowval: "1.0 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "SW"
+},
+{
+rowkey: "SWELL",
+rowval: "0.9 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "SW"
+},
+{
+rowkey: "HTSGW",
+rowval: "1.0 m"
+}
+]
+},
+{
+title: "07/28 白天",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "小雨"
+},
+{
+rowkey: "气温",
+rowval: "28.6 ℃"
+},
+{
+rowkey: "气压",
+rowval: "998.7 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "78.8 %"
+},
+{
+rowkey: "风向",
+rowval: "南风"
+},
+{
+rowkey: "风力",
+rowval: "4-5 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "西南"
+},
+{
+rowkey: "风浪波高",
+rowval: "1.1 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "西南"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.5 m"
+},
+{
+rowkey: "浪向",
+rowval: "西南"
+},
+{
+rowkey: "浪高",
+rowval: "1.1 m"
+}
+]
+},
+{
+title: "Jul. 28 Day",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Light rain"
+},
+{
+rowkey: "Temperature",
+rowval: "28.6 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "998.7 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "78.8 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "S"
+},
+{
+rowkey: "Wind level",
+rowval: "4-5 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SW"
+},
+{
+rowkey: "WVHGT",
+rowval: "1.1 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "SW"
+},
+{
+rowkey: "SWELL",
+rowval: "0.5 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "SW"
+},
+{
+rowkey: "HTSGW",
+rowval: "1.1 m"
+}
+]
+},
+{
+title: "07/28 夜间",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "小雨"
+},
+{
+rowkey: "气温",
+rowval: "28.5 ℃"
+},
+{
+rowkey: "气压",
+rowval: "999.0 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "77.5 %"
+},
+{
+rowkey: "风向",
+rowval: "西南风"
+},
+{
+rowkey: "风力",
+rowval: "4-5 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "西南"
+},
+{
+rowkey: "风浪波高",
+rowval: "1.3 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "西北"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.2 m"
+},
+{
+rowkey: "浪向",
+rowval: "西南"
+},
+{
+rowkey: "浪高",
+rowval: "1.3 m"
+}
+]
+},
+{
+title: "Jul. 28 Night",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Light rain"
+},
+{
+rowkey: "Temperature",
+rowval: "28.5 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "999.0 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "77.5 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "SW"
+},
+{
+rowkey: "Wind level",
+rowval: "4-5 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SW"
+},
+{
+rowkey: "WVHGT",
+rowval: "1.3 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "NW"
+},
+{
+rowkey: "SWELL",
+rowval: "0.2 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "SW"
+},
+{
+rowkey: "HTSGW",
+rowval: "1.3 m"
+}
+]
+}
+]
+},
+{
+id: "tag:gvmedia.com.cn,2017:silkwave/meteorology/sea/nanhaizhongxibu",
+imageUri: "tag:gvmedia.com.cn,2017:silkwave/icons/hs/nanhaizhongxibu.png",
+Name: [
+{
+lang: "zh-CN",
+text: "南海中西部"
+},
+{
+text: "Midwest of South China Sea"
+}
+],
+VoiceCast: [
+{
+cdsPath: "/app/seameteorology/en/nanhaizhongxibu.ts"
+},
+{
+lang: "zh-CN",
+cdsPath: "/app/seameteorology/zh-CN/nanhaizhongxibu.ts"
+}
+],
+Info: [
+{
+title: "07/26 白天",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "多云"
+},
+{
+rowkey: "气温",
+rowval: "28.5 ℃"
+},
+{
+rowkey: "气压",
+rowval: "995.7 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "75.3 %"
+},
+{
+rowkey: "风向",
+rowval: "南风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "南"
+},
+{
+rowkey: "风浪波高",
+rowval: "1.1 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "东北"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.4 m"
+},
+{
+rowkey: "浪向",
+rowval: "西南"
+},
+{
+rowkey: "浪高",
+rowval: "1.1 m"
+}
+]
+},
+{
+title: "Jul. 26 Day",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Cloudy"
+},
+{
+rowkey: "Temperature",
+rowval: "28.5 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "995.7 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "75.3 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "S"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "S"
+},
+{
+rowkey: "WVHGT",
+rowval: "1.1 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "NE"
+},
+{
+rowkey: "SWELL",
+rowval: "0.4 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "SW"
+},
+{
+rowkey: "HTSGW",
+rowval: "1.1 m"
+}
+]
+},
+{
+title: "07/26 夜间",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "多云"
+},
+{
+rowkey: "气温",
+rowval: "28.0 ℃"
+},
+{
+rowkey: "气压",
+rowval: "995.3 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "80.5 %"
+},
+{
+rowkey: "风向",
+rowval: "西南风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "南"
+},
+{
+rowkey: "风浪波高",
+rowval: "1.2 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "东北"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.3 m"
+},
+{
+rowkey: "浪向",
+rowval: "南"
+},
+{
+rowkey: "浪高",
+rowval: "1.2 m"
+}
+]
+},
+{
+title: "Jul. 26 Night",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Cloudy"
+},
+{
+rowkey: "Temperature",
+rowval: "28.0 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "995.3 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "80.5 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "SW"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "S"
+},
+{
+rowkey: "WVHGT",
+rowval: "1.2 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "NE"
+},
+{
+rowkey: "SWELL",
+rowval: "0.3 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "S"
+},
+{
+rowkey: "HTSGW",
+rowval: "1.2 m"
+}
+]
+},
+{
+title: "07/27 白天",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "多云"
+},
+{
+rowkey: "气温",
+rowval: "28.7 ℃"
+},
+{
+rowkey: "气压",
+rowval: "994.3 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "77.4 %"
+},
+{
+rowkey: "风向",
+rowval: "西南风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "西南"
+},
+{
+rowkey: "风浪波高",
+rowval: "1.1 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "南"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.6 m"
+},
+{
+rowkey: "浪向",
+rowval: "西南"
+},
+{
+rowkey: "浪高",
+rowval: "1.2 m"
+}
+]
+},
+{
+title: "Jul. 27 Day",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Cloudy"
+},
+{
+rowkey: "Temperature",
+rowval: "28.7 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "994.3 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "77.4 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "SW"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SW"
+},
+{
+rowkey: "WVHGT",
+rowval: "1.1 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "S"
+},
+{
+rowkey: "SWELL",
+rowval: "0.6 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "SW"
+},
+{
+rowkey: "HTSGW",
+rowval: "1.2 m"
+}
+]
+},
+{
+title: "07/27 夜间",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "多云"
+},
+{
+rowkey: "气温",
+rowval: "28.1 ℃"
+},
+{
+rowkey: "气压",
+rowval: "994.9 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "81.1 %"
+},
+{
+rowkey: "风向",
+rowval: "南风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "西南"
+},
+{
+rowkey: "风浪波高",
+rowval: "1.0 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "东北"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.6 m"
+},
+{
+rowkey: "浪向",
+rowval: "西南"
+},
+{
+rowkey: "浪高",
+rowval: "1.1 m"
+}
+]
+},
+{
+title: "Jul. 27 Night",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Cloudy"
+},
+{
+rowkey: "Temperature",
+rowval: "28.1 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "994.9 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "81.1 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "S"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SW"
+},
+{
+rowkey: "WVHGT",
+rowval: "1.0 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "NE"
+},
+{
+rowkey: "SWELL",
+rowval: "0.6 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "SW"
+},
+{
+rowkey: "HTSGW",
+rowval: "1.1 m"
+}
+]
+},
+{
+title: "07/28 白天",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "多云"
+},
+{
+rowkey: "气温",
+rowval: "28.9 ℃"
+},
+{
+rowkey: "气压",
+rowval: "994.3 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "78.4 %"
+},
+{
+rowkey: "风向",
+rowval: "东南风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "西南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.9 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "南"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.5 m"
+},
+{
+rowkey: "浪向",
+rowval: "西南"
+},
+{
+rowkey: "浪高",
+rowval: "0.9 m"
+}
+]
+},
+{
+title: "Jul. 28 Day",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Cloudy"
+},
+{
+rowkey: "Temperature",
+rowval: "28.9 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "994.3 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "78.4 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "SE"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SW"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.9 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "S"
+},
+{
+rowkey: "SWELL",
+rowval: "0.5 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "SW"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.9 m"
+}
+]
+},
+{
+title: "07/28 夜间",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "多云"
+},
+{
+rowkey: "气温",
+rowval: "28.0 ℃"
+},
+{
+rowkey: "气压",
+rowval: "994.9 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "81.2 %"
+},
+{
+rowkey: "风向",
+rowval: "东南风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.8 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "东北"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.3 m"
+},
+{
+rowkey: "浪向",
+rowval: "西南"
+},
+{
+rowkey: "浪高",
+rowval: "0.9 m"
+}
+]
+},
+{
+title: "Jul. 28 Night",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Cloudy"
+},
+{
+rowkey: "Temperature",
+rowval: "28.0 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "994.9 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "81.2 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "SE"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "S"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.8 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "NE"
+},
+{
+rowkey: "SWELL",
+rowval: "0.3 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "SW"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.9 m"
+}
+]
+}
+]
+},
+{
+id: "tag:gvmedia.com.cn,2017:silkwave/meteorology/sea/nanhaidongnanbu",
+imageUri: "tag:gvmedia.com.cn,2017:silkwave/icons/hs/nanhaidongnanbu.png",
+Name: [
+{
+lang: "zh-CN",
+text: "南海东南部"
+},
+{
+text: "Southeast of South China Sea"
+}
+],
+VoiceCast: [
+{
+cdsPath: "/app/seameteorology/en/nanhaidongnanbu.ts"
+},
+{
+lang: "zh-CN",
+cdsPath: "/app/seameteorology/zh-CN/nanhaidongnanbu.ts"
+}
+],
+Info: [
+{
+title: "07/26 白天",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "多云"
+},
+{
+rowkey: "气温",
+rowval: "26.1 ℃"
+},
+{
+rowkey: "气压",
+rowval: "963.7 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "81.3 %"
+},
+{
+rowkey: "风向",
+rowval: "西风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "西"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.4 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "西"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.4 m"
+},
+{
+rowkey: "浪向",
+rowval: "西"
+},
+{
+rowkey: "浪高",
+rowval: "0.5 m"
+}
+]
+},
+{
+title: "Jul. 26 Day",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Cloudy"
+},
+{
+rowkey: "Temperature",
+rowval: "26.1 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "963.7 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "81.3 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "W"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "W"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.4 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "W"
+},
+{
+rowkey: "SWELL",
+rowval: "0.4 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "W"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.5 m"
+}
+]
+},
+{
+title: "07/26 夜间",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "小雨"
+},
+{
+rowkey: "气温",
+rowval: "21.8 ℃"
+},
+{
+rowkey: "气压",
+rowval: "965.1 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "94.7 %"
+},
+{
+rowkey: "风向",
+rowval: "西南风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "西"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.4 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "西北"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.4 m"
+},
+{
+rowkey: "浪向",
+rowval: "西"
+},
+{
+rowkey: "浪高",
+rowval: "0.5 m"
+}
+]
+},
+{
+title: "Jul. 26 Night",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Light rain"
+},
+{
+rowkey: "Temperature",
+rowval: "21.8 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "965.1 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "94.7 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "SW"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "W"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.4 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "NW"
+},
+{
+rowkey: "SWELL",
+rowval: "0.4 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "W"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.5 m"
+}
+]
+},
+{
+title: "07/27 白天",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "中雨"
+},
+{
+rowkey: "气温",
+rowval: "26.3 ℃"
+},
+{
+rowkey: "气压",
+rowval: "963.7 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "79.1 %"
+},
+{
+rowkey: "风向",
+rowval: "西南风"
+},
+{
+rowkey: "风力",
+rowval: "4-5 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "西"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.6 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "西"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.4 m"
+},
+{
+rowkey: "浪向",
+rowval: "西"
+},
+{
+rowkey: "浪高",
+rowval: "0.6 m"
+}
+]
+},
+{
+title: "Jul. 27 Day",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Moderate rain"
+},
+{
+rowkey: "Temperature",
+rowval: "26.3 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "963.7 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "79.1 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "SW"
+},
+{
+rowkey: "Wind level",
+rowval: "4-5 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "W"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.6 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "W"
+},
+{
+rowkey: "SWELL",
+rowval: "0.4 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "W"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.6 m"
+}
+]
+},
+{
+title: "07/27 夜间",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "大雨"
+},
+{
+rowkey: "气温",
+rowval: "22.1 ℃"
+},
+{
+rowkey: "气压",
+rowval: "964.8 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "93.0 %"
+},
+{
+rowkey: "风向",
+rowval: "西南风"
+},
+{
+rowkey: "风力",
+rowval: "4-5 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "西"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.6 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "西北"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.6 m"
+},
+{
+rowkey: "浪向",
+rowval: "西"
+},
+{
+rowkey: "浪高",
+rowval: "0.7 m"
+}
+]
+},
+{
+title: "Jul. 27 Night",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Heavy rain"
+},
+{
+rowkey: "Temperature",
+rowval: "22.1 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "964.8 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "93.0 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "SW"
+},
+{
+rowkey: "Wind level",
+rowval: "4-5 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "W"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.6 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "NW"
+},
+{
+rowkey: "SWELL",
+rowval: "0.6 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "W"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.7 m"
+}
+]
+},
+{
+title: "07/28 白天",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "大雨"
+},
+{
+rowkey: "气温",
+rowval: "27.4 ℃"
+},
+{
+rowkey: "气压",
+rowval: "963.5 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "72.3 %"
+},
+{
+rowkey: "风向",
+rowval: "西南风"
+},
+{
+rowkey: "风力",
+rowval: "5-6 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "西南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.7 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "西北"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.7 m"
+},
+{
+rowkey: "浪向",
+rowval: "西北"
+},
+{
+rowkey: "浪高",
+rowval: "0.8 m"
+}
+]
+},
+{
+title: "Jul. 28 Day",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Heavy rain"
+},
+{
+rowkey: "Temperature",
+rowval: "27.4 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "963.5 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "72.3 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "SW"
+},
+{
+rowkey: "Wind level",
+rowval: "5-6 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SW"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.7 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "NW"
+},
+{
+rowkey: "SWELL",
+rowval: "0.7 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "NW"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.8 m"
+}
+]
+},
+{
+title: "07/28 夜间",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "大雨"
+},
+{
+rowkey: "气温",
+rowval: "22.3 ℃"
+},
+{
+rowkey: "气压",
+rowval: "964.6 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "93.4 %"
+},
+{
+rowkey: "风向",
+rowval: "西南风"
+},
+{
+rowkey: "风力",
+rowval: "5-6 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "西南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.7 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "西北"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.4 m"
+},
+{
+rowkey: "浪向",
+rowval: "西"
+},
+{
+rowkey: "浪高",
+rowval: "0.7 m"
+}
+]
+},
+{
+title: "Jul. 28 Night",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Heavy rain"
+},
+{
+rowkey: "Temperature",
+rowval: "22.3 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "964.6 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "93.4 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "SW"
+},
+{
+rowkey: "Wind level",
+rowval: "5-6 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SW"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.7 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "NW"
+},
+{
+rowkey: "SWELL",
+rowval: "0.4 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "W"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.7 m"
+}
+]
+}
+]
+},
+{
+id: "tag:gvmedia.com.cn,2017:silkwave/meteorology/sea/nanhaixinanbu",
+imageUri: "tag:gvmedia.com.cn,2017:silkwave/icons/hs/nanhaixinanbu.png",
+Name: [
+{
+lang: "zh-CN",
+text: "南海西南部"
+},
+{
+text: "Southwest of South China Sea"
+}
+],
+VoiceCast: [
+{
+cdsPath: "/app/seameteorology/en/nanhaixinanbu.ts"
+},
+{
+lang: "zh-CN",
+cdsPath: "/app/seameteorology/zh-CN/nanhaixinanbu.ts"
+}
+],
+Info: [
+{
+title: "07/26 白天",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "多云"
+},
+{
+rowkey: "气温",
+rowval: "27.2 ℃"
+},
+{
+rowkey: "气压",
+rowval: "992.3 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "74.0 %"
+},
+{
+rowkey: "风向",
+rowval: "西风"
+},
+{
+rowkey: "风力",
+rowval: "4-5 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "东"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.9 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "西"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.3 m"
+},
+{
+rowkey: "浪向",
+rowval: "东"
+},
+{
+rowkey: "浪高",
+rowval: "0.8 m"
+}
+]
+},
+{
+title: "Jul. 26 Day",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Cloudy"
+},
+{
+rowkey: "Temperature",
+rowval: "27.2 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "992.3 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "74.0 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "W"
+},
+{
+rowkey: "Wind level",
+rowval: "4-5 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "E"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.9 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "W"
+},
+{
+rowkey: "SWELL",
+rowval: "0.3 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "E"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.8 m"
+}
+]
+},
+{
+title: "07/26 夜间",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "多云"
+},
+{
+rowkey: "气温",
+rowval: "24.3 ℃"
+},
+{
+rowkey: "气压",
+rowval: "993.4 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "86.7 %"
+},
+{
+rowkey: "风向",
+rowval: "西南风"
+},
+{
+rowkey: "风力",
+rowval: "4-5 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "东"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.8 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "西南"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.3 m"
+},
+{
+rowkey: "浪向",
+rowval: "东"
+},
+{
+rowkey: "浪高",
+rowval: "0.8 m"
+}
+]
+},
+{
+title: "Jul. 26 Night",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Cloudy"
+},
+{
+rowkey: "Temperature",
+rowval: "24.3 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "993.4 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "86.7 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "SW"
+},
+{
+rowkey: "Wind level",
+rowval: "4-5 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "E"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.8 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "SW"
+},
+{
+rowkey: "SWELL",
+rowval: "0.3 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "E"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.8 m"
+}
+]
+},
+{
+title: "07/27 白天",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "多云"
+},
+{
+rowkey: "气温",
+rowval: "26.6 ℃"
+},
+{
+rowkey: "气压",
+rowval: "992.6 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "77.6 %"
+},
+{
+rowkey: "风向",
+rowval: "西南风"
+},
+{
+rowkey: "风力",
+rowval: "5-6 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "东"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.8 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "西北"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.3 m"
+},
+{
+rowkey: "浪向",
+rowval: "东"
+},
+{
+rowkey: "浪高",
+rowval: "0.7 m"
+}
+]
+},
+{
+title: "Jul. 27 Day",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Cloudy"
+},
+{
+rowkey: "Temperature",
+rowval: "26.6 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "992.6 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "77.6 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "SW"
+},
+{
+rowkey: "Wind level",
+rowval: "5-6 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "E"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.8 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "NW"
+},
+{
+rowkey: "SWELL",
+rowval: "0.3 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "E"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.7 m"
+}
+]
+},
+{
+title: "07/27 夜间",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "多云"
+},
+{
+rowkey: "气温",
+rowval: "24.4 ℃"
+},
+{
+rowkey: "气压",
+rowval: "993.6 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "86.8 %"
+},
+{
+rowkey: "风向",
+rowval: "西南风"
+},
+{
+rowkey: "风力",
+rowval: "5-6 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "东"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.7 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "西北"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.4 m"
+},
+{
+rowkey: "浪向",
+rowval: "东"
+},
+{
+rowkey: "浪高",
+rowval: "0.7 m"
+}
+]
+},
+{
+title: "Jul. 27 Night",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Cloudy"
+},
+{
+rowkey: "Temperature",
+rowval: "24.4 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "993.6 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "86.8 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "SW"
+},
+{
+rowkey: "Wind level",
+rowval: "5-6 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "E"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.7 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "NW"
+},
+{
+rowkey: "SWELL",
+rowval: "0.4 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "E"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.7 m"
+}
+]
+},
+{
+title: "07/28 白天",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "小雨"
+},
+{
+rowkey: "气温",
+rowval: "27.6 ℃"
+},
+{
+rowkey: "气压",
+rowval: "992.5 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "73.1 %"
+},
+{
+rowkey: "风向",
+rowval: "西南风"
+},
+{
+rowkey: "风力",
+rowval: "5-6 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "东"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.6 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "西北"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.4 m"
+},
+{
+rowkey: "浪向",
+rowval: "东"
+},
+{
+rowkey: "浪高",
+rowval: "0.6 m"
+}
+]
+},
+{
+title: "Jul. 28 Day",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Light rain"
+},
+{
+rowkey: "Temperature",
+rowval: "27.6 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "992.5 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "73.1 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "SW"
+},
+{
+rowkey: "Wind level",
+rowval: "5-6 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "E"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.6 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "NW"
+},
+{
+rowkey: "SWELL",
+rowval: "0.4 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "E"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.6 m"
+}
+]
+},
+{
+title: "07/28 夜间",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "多云"
+},
+{
+rowkey: "气温",
+rowval: "24.5 ℃"
+},
+{
+rowkey: "气压",
+rowval: "993.3 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "85.5 %"
+},
+{
+rowkey: "风向",
+rowval: "西南风"
+},
+{
+rowkey: "风力",
+rowval: "5-6 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "东南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.6 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "西北"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.3 m"
+},
+{
+rowkey: "浪向",
+rowval: "东"
+},
+{
+rowkey: "浪高",
+rowval: "0.7 m"
+}
+]
+},
+{
+title: "Jul. 28 Night",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Cloudy"
+},
+{
+rowkey: "Temperature",
+rowval: "24.5 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "993.3 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "85.5 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "SW"
+},
+{
+rowkey: "Wind level",
+rowval: "5-6 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SE"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.6 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "NW"
+},
+{
+rowkey: "SWELL",
+rowval: "0.3 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "E"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.7 m"
+}
+]
+}
+]
+},
+{
+id: "tag:gvmedia.com.cn,2017:silkwave/meteorology/sea/yuenanyinanhaiyu",
+imageUri: "tag:gvmedia.com.cn,2017:silkwave/icons/hs/yuenanyinanhaiyu.png",
+Name: [
+{
+lang: "zh-CN",
+text: "越南以南海域"
+},
+{
+text: "South Ocean of Vietnam"
+}
+],
+VoiceCast: [
+{
+cdsPath: "/app/seameteorology/en/yuenanyinanhaiyu.ts"
+},
+{
+lang: "zh-CN",
+cdsPath: "/app/seameteorology/zh-CN/yuenanyinanhaiyu.ts"
+}
+],
+Info: [
+{
+title: "07/26 白天",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "多云"
+},
+{
+rowkey: "气温",
+rowval: "28.2 ℃"
+},
+{
+rowkey: "气压",
+rowval: "1000.3 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "72.1 %"
+},
+{
+rowkey: "风向",
+rowval: "西风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.7 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "南"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.5 m"
+},
+{
+rowkey: "浪向",
+rowval: "南"
+},
+{
+rowkey: "浪高",
+rowval: "0.7 m"
+}
+]
+},
+{
+title: "Jul. 26 Day",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Cloudy"
+},
+{
+rowkey: "Temperature",
+rowval: "28.2 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "1000.3 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "72.1 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "W"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "S"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.7 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "S"
+},
+{
+rowkey: "SWELL",
+rowval: "0.5 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "S"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.7 m"
+}
+]
+},
+{
+title: "07/26 夜间",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "多云"
+},
+{
+rowkey: "气温",
+rowval: "26.8 ℃"
+},
+{
+rowkey: "气压",
+rowval: "1000.8 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "77.2 %"
+},
+{
+rowkey: "风向",
+rowval: "西风"
+},
+{
+rowkey: "风力",
+rowval: "4-5 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "东南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.5 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "南"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.4 m"
+},
+{
+rowkey: "浪向",
+rowval: "东南"
+},
+{
+rowkey: "浪高",
+rowval: "0.5 m"
+}
+]
+},
+{
+title: "Jul. 26 Night",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Cloudy"
+},
+{
+rowkey: "Temperature",
+rowval: "26.8 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "1000.8 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "77.2 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "W"
+},
+{
+rowkey: "Wind level",
+rowval: "4-5 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SE"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.5 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "S"
+},
+{
+rowkey: "SWELL",
+rowval: "0.4 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "SE"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.5 m"
+}
+]
+},
+{
+title: "07/27 白天",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "多云"
+},
+{
+rowkey: "气温",
+rowval: "28.4 ℃"
+},
+{
+rowkey: "气压",
+rowval: "999.8 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "72.4 %"
+},
+{
+rowkey: "风向",
+rowval: "西风"
+},
+{
+rowkey: "风力",
+rowval: "4-5 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "东南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.5 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "南"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.4 m"
+},
+{
+rowkey: "浪向",
+rowval: "东南"
+},
+{
+rowkey: "浪高",
+rowval: "0.5 m"
+}
+]
+},
+{
+title: "Jul. 27 Day",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Cloudy"
+},
+{
+rowkey: "Temperature",
+rowval: "28.4 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "999.8 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "72.4 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "W"
+},
+{
+rowkey: "Wind level",
+rowval: "4-5 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SE"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.5 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "S"
+},
+{
+rowkey: "SWELL",
+rowval: "0.4 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "SE"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.5 m"
+}
+]
+},
+{
+title: "07/27 夜间",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "多云"
+},
+{
+rowkey: "气温",
+rowval: "27.0 ℃"
+},
+{
+rowkey: "气压",
+rowval: "1000.8 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "81.2 %"
+},
+{
+rowkey: "风向",
+rowval: "西风"
+},
+{
+rowkey: "风力",
+rowval: "4-5 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "东南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.3 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "南"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.4 m"
+},
+{
+rowkey: "浪向",
+rowval: "东南"
+},
+{
+rowkey: "浪高",
+rowval: "0.4 m"
+}
+]
+},
+{
+title: "Jul. 27 Night",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Cloudy"
+},
+{
+rowkey: "Temperature",
+rowval: "27.0 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "1000.8 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "81.2 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "W"
+},
+{
+rowkey: "Wind level",
+rowval: "4-5 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SE"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.3 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "S"
+},
+{
+rowkey: "SWELL",
+rowval: "0.4 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "SE"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.4 m"
+}
+]
+},
+{
+title: "07/28 白天",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "多云"
+},
+{
+rowkey: "气温",
+rowval: "28.4 ℃"
+},
+{
+rowkey: "气压",
+rowval: "1000.0 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "76.3 %"
+},
+{
+rowkey: "风向",
+rowval: "西南风"
+},
+{
+rowkey: "风力",
+rowval: "4-5 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "东南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.3 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "北"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.2 m"
+},
+{
+rowkey: "浪向",
+rowval: "东南"
+},
+{
+rowkey: "浪高",
+rowval: "0.4 m"
+}
+]
+},
+{
+title: "Jul. 28 Day",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Cloudy"
+},
+{
+rowkey: "Temperature",
+rowval: "28.4 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "1000.0 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "76.3 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "SW"
+},
+{
+rowkey: "Wind level",
+rowval: "4-5 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SE"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.3 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "N"
+},
+{
+rowkey: "SWELL",
+rowval: "0.2 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "SE"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.4 m"
+}
+]
+},
+{
+title: "07/28 夜间",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "多云"
+},
+{
+rowkey: "气温",
+rowval: "27.0 ℃"
+},
+{
+rowkey: "气压",
+rowval: "1000.9 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "82.7 %"
+},
+{
+rowkey: "风向",
+rowval: "西南风"
+},
+{
+rowkey: "风力",
+rowval: "5-6 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "东南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.4 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "北"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.1 m"
+},
+{
+rowkey: "浪向",
+rowval: "东南"
+},
+{
+rowkey: "浪高",
+rowval: "0.4 m"
+}
+]
+},
+{
+title: "Jul. 28 Night",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Cloudy"
+},
+{
+rowkey: "Temperature",
+rowval: "27.0 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "1000.9 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "82.7 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "SW"
+},
+{
+rowkey: "Wind level",
+rowval: "5-6 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SE"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.4 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "N"
+},
+{
+rowkey: "SWELL",
+rowval: "0.1 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "SE"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.4 m"
+}
+]
+}
+]
+},
+{
+id: "tag:gvmedia.com.cn,2017:silkwave/meteorology/sea/feilvbindongnanyangmian",
+imageUri: "tag:gvmedia.com.cn,2017:silkwave/icons/hs/feilvbindongnanyangmian.png",
+Name: [
+{
+lang: "zh-CN",
+text: "菲律宾东南洋面"
+},
+{
+text: "Southeast Ocean of the Philippine"
+}
+],
+VoiceCast: [
+{
+cdsPath: "/app/seameteorology/en/feilvbindongnanyangmian.ts"
+},
+{
+lang: "zh-CN",
+cdsPath: "/app/seameteorology/zh-CN/feilvbindongnanyangmian.ts"
+}
+],
+Info: [
+{
+title: "07/26 白天",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "多云"
+},
+{
+rowkey: "气温",
+rowval: "27.1 ℃"
+},
+{
+rowkey: "气压",
+rowval: "997.5 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "78.4 %"
+},
+{
+rowkey: "风向",
+rowval: "西风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "西南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.8 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "南"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.4 m"
+},
+{
+rowkey: "浪向",
+rowval: "南"
+},
+{
+rowkey: "浪高",
+rowval: "0.9 m"
+}
+]
+},
+{
+title: "Jul. 26 Day",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Cloudy"
+},
+{
+rowkey: "Temperature",
+rowval: "27.1 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "997.5 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "78.4 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "W"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SW"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.8 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "S"
+},
+{
+rowkey: "SWELL",
+rowval: "0.4 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "S"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.9 m"
+}
+]
+},
+{
+title: "07/26 夜间",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "小雨"
+},
+{
+rowkey: "气温",
+rowval: "26.7 ℃"
+},
+{
+rowkey: "气压",
+rowval: "998.1 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "80.1 %"
+},
+{
+rowkey: "风向",
+rowval: "西风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "西南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.9 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "东北"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.3 m"
+},
+{
+rowkey: "浪向",
+rowval: "南"
+},
+{
+rowkey: "浪高",
+rowval: "0.9 m"
+}
+]
+},
+{
+title: "Jul. 26 Night",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Light rain"
+},
+{
+rowkey: "Temperature",
+rowval: "26.7 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "998.1 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "80.1 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "W"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SW"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.9 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "NE"
+},
+{
+rowkey: "SWELL",
+rowval: "0.3 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "S"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.9 m"
+}
+]
+},
+{
+title: "07/27 白天",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "小雨"
+},
+{
+rowkey: "气温",
+rowval: "27.2 ℃"
+},
+{
+rowkey: "气压",
+rowval: "997.5 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "78.5 %"
+},
+{
+rowkey: "风向",
+rowval: "西南风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "西南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.8 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "东北"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.3 m"
+},
+{
+rowkey: "浪向",
+rowval: "南"
+},
+{
+rowkey: "浪高",
+rowval: "0.8 m"
+}
+]
+},
+{
+title: "Jul. 27 Day",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Light rain"
+},
+{
+rowkey: "Temperature",
+rowval: "27.2 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "997.5 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "78.5 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "SW"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SW"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.8 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "NE"
+},
+{
+rowkey: "SWELL",
+rowval: "0.3 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "S"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.8 m"
+}
+]
+},
+{
+title: "07/27 夜间",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "小雨"
+},
+{
+rowkey: "气温",
+rowval: "26.7 ℃"
+},
+{
+rowkey: "气压",
+rowval: "998.7 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "80.3 %"
+},
+{
+rowkey: "风向",
+rowval: "西南风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "西南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.7 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "东北"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.3 m"
+},
+{
+rowkey: "浪向",
+rowval: "南"
+},
+{
+rowkey: "浪高",
+rowval: "0.8 m"
+}
+]
+},
+{
+title: "Jul. 27 Night",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Light rain"
+},
+{
+rowkey: "Temperature",
+rowval: "26.7 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "998.7 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "80.3 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "SW"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SW"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.7 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "NE"
+},
+{
+rowkey: "SWELL",
+rowval: "0.3 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "S"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.8 m"
+}
+]
+},
+{
+title: "07/28 白天",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "小雨"
+},
+{
+rowkey: "气温",
+rowval: "26.8 ℃"
+},
+{
+rowkey: "气压",
+rowval: "998.4 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "79.7 %"
+},
+{
+rowkey: "风向",
+rowval: "西南风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "西南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.8 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "东北"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.3 m"
+},
+{
+rowkey: "浪向",
+rowval: "南"
+},
+{
+rowkey: "浪高",
+rowval: "0.9 m"
+}
+]
+},
+{
+title: "Jul. 28 Day",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Light rain"
+},
+{
+rowkey: "Temperature",
+rowval: "26.8 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "998.4 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "79.7 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "SW"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SW"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.8 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "NE"
+},
+{
+rowkey: "SWELL",
+rowval: "0.3 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "S"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.9 m"
+}
+]
+},
+{
+title: "07/28 夜间",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "小雨"
+},
+{
+rowkey: "气温",
+rowval: "26.2 ℃"
+},
+{
+rowkey: "气压",
+rowval: "998.8 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "81.1 %"
+},
+{
+rowkey: "风向",
+rowval: "西南风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "西南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.9 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "东北"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.3 m"
+},
+{
+rowkey: "浪向",
+rowval: "南"
+},
+{
+rowkey: "浪高",
+rowval: "0.9 m"
+}
+]
+},
+{
+title: "Jul. 28 Night",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Light rain"
+},
+{
+rowkey: "Temperature",
+rowval: "26.2 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "998.8 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "81.1 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "SW"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SW"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.9 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "NE"
+},
+{
+rowkey: "SWELL",
+rowval: "0.3 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "S"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.9 m"
+}
+]
+}
+]
+},
+{
+id: "tag:gvmedia.com.cn,2017:silkwave/meteorology/sea/xinjiapoyidonghaiyu",
+imageUri: "tag:gvmedia.com.cn,2017:silkwave/icons/hs/xinjiapoyidonghaiyu.png",
+Name: [
+{
+lang: "zh-CN",
+text: "新加坡以东海域"
+},
+{
+text: "East Ocean of Singapore"
+}
+],
+VoiceCast: [
+{
+cdsPath: "/app/seameteorology/en/xinjiapoyidonghaiyu.ts"
+},
+{
+lang: "zh-CN",
+cdsPath: "/app/seameteorology/zh-CN/xinjiapoyidonghaiyu.ts"
+}
+],
+Info: [
+{
+title: "07/26 白天",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "多云"
+},
+{
+rowkey: "气温",
+rowval: "28.2 ℃"
+},
+{
+rowkey: "气压",
+rowval: "999.7 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "69.7 %"
+},
+{
+rowkey: "风向",
+rowval: "南风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "东南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.7 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "东"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.2 m"
+},
+{
+rowkey: "浪向",
+rowval: "东南"
+},
+{
+rowkey: "浪高",
+rowval: "0.7 m"
+}
+]
+},
+{
+title: "Jul. 26 Day",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Cloudy"
+},
+{
+rowkey: "Temperature",
+rowval: "28.2 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "999.7 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "69.7 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "S"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SE"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.7 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "E"
+},
+{
+rowkey: "SWELL",
+rowval: "0.2 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "SE"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.7 m"
+}
+]
+},
+{
+title: "07/26 夜间",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "多云"
+},
+{
+rowkey: "气温",
+rowval: "25.3 ℃"
+},
+{
+rowkey: "气压",
+rowval: "1000.5 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "82.7 %"
+},
+{
+rowkey: "风向",
+rowval: "南风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "东南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.6 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "东南"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.2 m"
+},
+{
+rowkey: "浪向",
+rowval: "东南"
+},
+{
+rowkey: "浪高",
+rowval: "0.6 m"
+}
+]
+},
+{
+title: "Jul. 26 Night",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Cloudy"
+},
+{
+rowkey: "Temperature",
+rowval: "25.3 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "1000.5 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "82.7 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "S"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SE"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.6 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "SE"
+},
+{
+rowkey: "SWELL",
+rowval: "0.2 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "SE"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.6 m"
+}
+]
+},
+{
+title: "07/27 白天",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "多云"
+},
+{
+rowkey: "气温",
+rowval: "28.3 ℃"
+},
+{
+rowkey: "气压",
+rowval: "999.5 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "71.3 %"
+},
+{
+rowkey: "风向",
+rowval: "南风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "东南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.6 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "东南"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.5 m"
+},
+{
+rowkey: "浪向",
+rowval: "东南"
+},
+{
+rowkey: "浪高",
+rowval: "0.6 m"
+}
+]
+},
+{
+title: "Jul. 27 Day",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Cloudy"
+},
+{
+rowkey: "Temperature",
+rowval: "28.3 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "999.5 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "71.3 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "S"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SE"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.6 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "SE"
+},
+{
+rowkey: "SWELL",
+rowval: "0.5 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "SE"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.6 m"
+}
+]
+},
+{
+title: "07/27 夜间",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "多云"
+},
+{
+rowkey: "气温",
+rowval: "25.5 ℃"
+},
+{
+rowkey: "气压",
+rowval: "1000.7 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "86.2 %"
+},
+{
+rowkey: "风向",
+rowval: "南风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "东南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.3 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "东南"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.4 m"
+},
+{
+rowkey: "浪向",
+rowval: "东南"
+},
+{
+rowkey: "浪高",
+rowval: "0.4 m"
+}
+]
+},
+{
+title: "Jul. 27 Night",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Cloudy"
+},
+{
+rowkey: "Temperature",
+rowval: "25.5 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "1000.7 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "86.2 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "S"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SE"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.3 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "SE"
+},
+{
+rowkey: "SWELL",
+rowval: "0.4 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "SE"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.4 m"
+}
+]
+},
+{
+title: "07/28 白天",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "多云"
+},
+{
+rowkey: "气温",
+rowval: "28.2 ℃"
+},
+{
+rowkey: "气压",
+rowval: "999.9 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "73.5 %"
+},
+{
+rowkey: "风向",
+rowval: "南风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "东南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.4 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "东南"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.2 m"
+},
+{
+rowkey: "浪向",
+rowval: "东南"
+},
+{
+rowkey: "浪高",
+rowval: "0.4 m"
+}
+]
+},
+{
+title: "Jul. 28 Day",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Cloudy"
+},
+{
+rowkey: "Temperature",
+rowval: "28.2 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "999.9 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "73.5 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "S"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SE"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.4 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "SE"
+},
+{
+rowkey: "SWELL",
+rowval: "0.2 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "SE"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.4 m"
+}
+]
+},
+{
+title: "07/28 夜间",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "多云"
+},
+{
+rowkey: "气温",
+rowval: "25.4 ℃"
+},
+{
+rowkey: "气压",
+rowval: "1000.8 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "85.2 %"
+},
+{
+rowkey: "风向",
+rowval: "南风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "东南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.4 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "东南"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.3 m"
+},
+{
+rowkey: "浪向",
+rowval: "东南"
+},
+{
+rowkey: "浪高",
+rowval: "0.4 m"
+}
+]
+},
+{
+title: "Jul. 28 Night",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Cloudy"
+},
+{
+rowkey: "Temperature",
+rowval: "25.4 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "1000.8 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "85.2 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "S"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SE"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.4 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "SE"
+},
+{
+rowkey: "SWELL",
+rowval: "0.3 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "SE"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.4 m"
+}
+]
+}
+]
+},
+{
+id: "tag:gvmedia.com.cn,2017:silkwave/meteorology/sea/feilvbinxinanhaiyu",
+imageUri: "tag:gvmedia.com.cn,2017:silkwave/icons/hs/feilvbinxinanhaiyu.png",
+Name: [
+{
+lang: "zh-CN",
+text: "菲律宾西南海域"
+},
+{
+text: "Southwest Ocean of Philippine"
+}
+],
+VoiceCast: [
+{
+cdsPath: "/app/seameteorology/en/feilvbinxinanhaiyu.ts"
+},
+{
+lang: "zh-CN",
+cdsPath: "/app/seameteorology/zh-CN/feilvbinxinanhaiyu.ts"
+}
+],
+Info: [
+{
+title: "07/26 白天",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "多云"
+},
+{
+rowkey: "气温",
+rowval: "26.0 ℃"
+},
+{
+rowkey: "气压",
+rowval: "980.6 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "75.2 %"
+},
+{
+rowkey: "风向",
+rowval: "西风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "东南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.7 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "西南"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.3 m"
+},
+{
+rowkey: "浪向",
+rowval: "西南"
+},
+{
+rowkey: "浪高",
+rowval: "0.6 m"
+}
+]
+},
+{
+title: "Jul. 26 Day",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Cloudy"
+},
+{
+rowkey: "Temperature",
+rowval: "26.0 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "980.6 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "75.2 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "W"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SE"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.7 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "SW"
+},
+{
+rowkey: "SWELL",
+rowval: "0.3 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "SW"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.6 m"
+}
+]
+},
+{
+title: "07/26 夜间",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "多云"
+},
+{
+rowkey: "气温",
+rowval: "24.4 ℃"
+},
+{
+rowkey: "气压",
+rowval: "981.7 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "82.6 %"
+},
+{
+rowkey: "风向",
+rowval: "西南风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.6 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "西南"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.4 m"
+},
+{
+rowkey: "浪向",
+rowval: "南"
+},
+{
+rowkey: "浪高",
+rowval: "0.5 m"
+}
+]
+},
+{
+title: "Jul. 26 Night",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Cloudy"
+},
+{
+rowkey: "Temperature",
+rowval: "24.4 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "981.7 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "82.6 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "SW"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "S"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.6 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "SW"
+},
+{
+rowkey: "SWELL",
+rowval: "0.4 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "S"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.5 m"
+}
+]
+},
+{
+title: "07/27 白天",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "多云"
+},
+{
+rowkey: "气温",
+rowval: "25.7 ℃"
+},
+{
+rowkey: "气压",
+rowval: "980.8 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "78.7 %"
+},
+{
+rowkey: "风向",
+rowval: "西南风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.5 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "西南"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.3 m"
+},
+{
+rowkey: "浪向",
+rowval: "东南"
+},
+{
+rowkey: "浪高",
+rowval: "0.5 m"
+}
+]
+},
+{
+title: "Jul. 27 Day",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Cloudy"
+},
+{
+rowkey: "Temperature",
+rowval: "25.7 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "980.8 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "78.7 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "SW"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "S"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.5 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "SW"
+},
+{
+rowkey: "SWELL",
+rowval: "0.3 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "SE"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.5 m"
+}
+]
+},
+{
+title: "07/27 夜间",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "中雨"
+},
+{
+rowkey: "气温",
+rowval: "24.3 ℃"
+},
+{
+rowkey: "气压",
+rowval: "982.2 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "82.3 %"
+},
+{
+rowkey: "风向",
+rowval: "南风"
+},
+{
+rowkey: "风力",
+rowval: "4-5 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "东南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.7 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "西南"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.3 m"
+},
+{
+rowkey: "浪向",
+rowval: "南"
+},
+{
+rowkey: "浪高",
+rowval: "0.5 m"
+}
+]
+},
+{
+title: "Jul. 27 Night",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Moderate rain"
+},
+{
+rowkey: "Temperature",
+rowval: "24.3 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "982.2 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "82.3 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "S"
+},
+{
+rowkey: "Wind level",
+rowval: "4-5 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SE"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.7 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "SW"
+},
+{
+rowkey: "SWELL",
+rowval: "0.3 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "S"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.5 m"
+}
+]
+},
+{
+title: "07/28 白天",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "多云"
+},
+{
+rowkey: "气温",
+rowval: "26.1 ℃"
+},
+{
+rowkey: "气压",
+rowval: "981.3 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "75.7 %"
+},
+{
+rowkey: "风向",
+rowval: "西南风"
+},
+{
+rowkey: "风力",
+rowval: "4-5 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "东南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.6 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "西南"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.3 m"
+},
+{
+rowkey: "浪向",
+rowval: "东南"
+},
+{
+rowkey: "浪高",
+rowval: "0.5 m"
+}
+]
+},
+{
+title: "Jul. 28 Day",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Cloudy"
+},
+{
+rowkey: "Temperature",
+rowval: "26.1 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "981.3 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "75.7 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "SW"
+},
+{
+rowkey: "Wind level",
+rowval: "4-5 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SE"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.6 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "SW"
+},
+{
+rowkey: "SWELL",
+rowval: "0.3 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "SE"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.5 m"
+}
+]
+},
+{
+title: "07/28 夜间",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "小雨"
+},
+{
+rowkey: "气温",
+rowval: "24.3 ℃"
+},
+{
+rowkey: "气压",
+rowval: "982.0 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "81.4 %"
+},
+{
+rowkey: "风向",
+rowval: "西南风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "东南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.6 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "西南"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.3 m"
+},
+{
+rowkey: "浪向",
+rowval: "东南"
+},
+{
+rowkey: "浪高",
+rowval: "0.5 m"
+}
+]
+},
+{
+title: "Jul. 28 Night",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Light rain"
+},
+{
+rowkey: "Temperature",
+rowval: "24.3 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "982.0 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "81.4 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "SW"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SE"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.6 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "SW"
+},
+{
+rowkey: "SWELL",
+rowval: "0.3 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "SE"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.5 m"
+}
+]
+}
+]
+},
+{
+id: "tag:gvmedia.com.cn,2017:silkwave/meteorology/sea/qiongzhouhaixia",
+imageUri: "tag:gvmedia.com.cn,2017:silkwave/icons/hs/qiongzhouhaixia.png",
+Name: [
+{
+lang: "zh-CN",
+text: "琼州海峡"
+},
+{
+text: "Qiongzhou Strait"
+}
+],
+VoiceCast: [
+{
+cdsPath: "/app/seameteorology/en/qiongzhouhaixia.ts"
+},
+{
+lang: "zh-CN",
+cdsPath: "/app/seameteorology/zh-CN/qiongzhouhaixia.ts"
+}
+],
+Info: [
+{
+title: "07/26 白天",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "阴"
+},
+{
+rowkey: "气温",
+rowval: "31.1 ℃"
+},
+{
+rowkey: "气压",
+rowval: "943.1 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "61.4 %"
+},
+{
+rowkey: "风向",
+rowval: "西风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "东南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.5 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: ""
+},
+{
+rowkey: "涌浪波高",
+rowval: ""
+},
+{
+rowkey: "浪向",
+rowval: "东南"
+},
+{
+rowkey: "浪高",
+rowval: "0.5 m"
+}
+]
+},
+{
+title: "Jul. 26 Day",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Overcast"
+},
+{
+rowkey: "Temperature",
+rowval: "31.1 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "943.1 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "61.4 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "W"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SE"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.5 m"
+},
+{
+rowkey: "SWDIR",
+rowval: ""
+},
+{
+rowkey: "SWELL",
+rowval: ""
+},
+{
+rowkey: "DIRPW",
+rowval: "SE"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.5 m"
+}
+]
+},
+{
+title: "07/26 夜间",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "阴"
+},
+{
+rowkey: "气温",
+rowval: "22.5 ℃"
+},
+{
+rowkey: "气压",
+rowval: "944.0 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "97.0 %"
+},
+{
+rowkey: "风向",
+rowval: "南风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "东南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.5 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "东南"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.4 m"
+},
+{
+rowkey: "浪向",
+rowval: "东南"
+},
+{
+rowkey: "浪高",
+rowval: "0.5 m"
+}
+]
+},
+{
+title: "Jul. 26 Night",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Overcast"
+},
+{
+rowkey: "Temperature",
+rowval: "22.5 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "944.0 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "97.0 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "S"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SE"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.5 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "SE"
+},
+{
+rowkey: "SWELL",
+rowval: "0.4 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "SE"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.5 m"
+}
+]
+},
+{
+title: "07/27 白天",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "阴"
+},
+{
+rowkey: "气温",
+rowval: "32.2 ℃"
+},
+{
+rowkey: "气压",
+rowval: "942.4 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "55.6 %"
+},
+{
+rowkey: "风向",
+rowval: "东南风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "东南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.4 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "东南"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.3 m"
+},
+{
+rowkey: "浪向",
+rowval: "东南"
+},
+{
+rowkey: "浪高",
+rowval: "0.3 m"
+}
+]
+},
+{
+title: "Jul. 27 Day",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Overcast"
+},
+{
+rowkey: "Temperature",
+rowval: "32.2 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "942.4 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "55.6 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "SE"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SE"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.4 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "SE"
+},
+{
+rowkey: "SWELL",
+rowval: "0.3 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "SE"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.3 m"
+}
+]
+},
+{
+title: "07/27 夜间",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "阴"
+},
+{
+rowkey: "气温",
+rowval: "23.6 ℃"
+},
+{
+rowkey: "气压",
+rowval: "944.2 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "97.6 %"
+},
+{
+rowkey: "风向",
+rowval: "南风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "东南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.5 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "东南"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.4 m"
+},
+{
+rowkey: "浪向",
+rowval: "东南"
+},
+{
+rowkey: "浪高",
+rowval: "0.5 m"
+}
+]
+},
+{
+title: "Jul. 27 Night",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Overcast"
+},
+{
+rowkey: "Temperature",
+rowval: "23.6 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "944.2 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "97.6 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "S"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SE"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.5 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "SE"
+},
+{
+rowkey: "SWELL",
+rowval: "0.4 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "SE"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.5 m"
+}
+]
+},
+{
+title: "07/28 白天",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "阴"
+},
+{
+rowkey: "气温",
+rowval: "31.7 ℃"
+},
+{
+rowkey: "气压",
+rowval: "942.8 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "60.9 %"
+},
+{
+rowkey: "风向",
+rowval: "东南风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "东南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.2 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "东南"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.3 m"
+},
+{
+rowkey: "浪向",
+rowval: "东南"
+},
+{
+rowkey: "浪高",
+rowval: "0.3 m"
+}
+]
+},
+{
+title: "Jul. 28 Day",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Overcast"
+},
+{
+rowkey: "Temperature",
+rowval: "31.7 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "942.8 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "60.9 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "SE"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SE"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.2 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "SE"
+},
+{
+rowkey: "SWELL",
+rowval: "0.3 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "SE"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.3 m"
+}
+]
+},
+{
+title: "07/28 夜间",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "阴"
+},
+{
+rowkey: "气温",
+rowval: "23.5 ℃"
+},
+{
+rowkey: "气压",
+rowval: "944.1 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "98.8 %"
+},
+{
+rowkey: "风向",
+rowval: "东南风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "东南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.5 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: ""
+},
+{
+rowkey: "涌浪波高",
+rowval: ""
+},
+{
+rowkey: "浪向",
+rowval: "东南"
+},
+{
+rowkey: "浪高",
+rowval: "0.5 m"
+}
+]
+},
+{
+title: "Jul. 28 Night",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Overcast"
+},
+{
+rowkey: "Temperature",
+rowval: "23.5 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "944.1 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "98.8 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "SE"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SE"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.5 m"
+},
+{
+rowkey: "SWDIR",
+rowval: ""
+},
+{
+rowkey: "SWELL",
+rowval: ""
+},
+{
+rowkey: "DIRPW",
+rowval: "SE"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.5 m"
+}
+]
+}
+]
+},
+{
+id: "tag:gvmedia.com.cn,2017:silkwave/meteorology/sea/taiguowan",
+imageUri: "tag:gvmedia.com.cn,2017:silkwave/icons/hs/taiguowan.png",
+Name: [
+{
+lang: "zh-CN",
+text: "泰国湾"
+},
+{
+text: "Gulf of Thailand"
+}
+],
+VoiceCast: [
+{
+cdsPath: "/app/seameteorology/en/taiguowan.ts"
+},
+{
+lang: "zh-CN",
+cdsPath: "/app/seameteorology/zh-CN/taiguowan.ts"
+}
+],
+Info: [
+{
+title: "07/26 白天",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "多云"
+},
+{
+rowkey: "气温",
+rowval: "28.2 ℃"
+},
+{
+rowkey: "气压",
+rowval: "986.5 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "71.3 %"
+},
+{
+rowkey: "风向",
+rowval: "西风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.3 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "南"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.3 m"
+},
+{
+rowkey: "浪向",
+rowval: "南"
+},
+{
+rowkey: "浪高",
+rowval: "0.3 m"
+}
+]
+},
+{
+title: "Jul. 26 Day",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Cloudy"
+},
+{
+rowkey: "Temperature",
+rowval: "28.2 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "986.5 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "71.3 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "W"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "S"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.3 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "S"
+},
+{
+rowkey: "SWELL",
+rowval: "0.3 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "S"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.3 m"
+}
+]
+},
+{
+title: "07/26 夜间",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "多云"
+},
+{
+rowkey: "气温",
+rowval: "24.8 ℃"
+},
+{
+rowkey: "气压",
+rowval: "987.0 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "84.9 %"
+},
+{
+rowkey: "风向",
+rowval: "西风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.1 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "东南"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.2 m"
+},
+{
+rowkey: "浪向",
+rowval: "东南"
+},
+{
+rowkey: "浪高",
+rowval: "0.2 m"
+}
+]
+},
+{
+title: "Jul. 26 Night",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Cloudy"
+},
+{
+rowkey: "Temperature",
+rowval: "24.8 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "987.0 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "84.9 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "W"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "S"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.1 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "SE"
+},
+{
+rowkey: "SWELL",
+rowval: "0.2 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "SE"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.2 m"
+}
+]
+},
+{
+title: "07/27 白天",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "多云"
+},
+{
+rowkey: "气温",
+rowval: "28.6 ℃"
+},
+{
+rowkey: "气压",
+rowval: "985.6 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "70.8 %"
+},
+{
+rowkey: "风向",
+rowval: "西风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "东"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.1 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "东南"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.1 m"
+},
+{
+rowkey: "浪向",
+rowval: "东南"
+},
+{
+rowkey: "浪高",
+rowval: "0.1 m"
+}
+]
+},
+{
+title: "Jul. 27 Day",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Cloudy"
+},
+{
+rowkey: "Temperature",
+rowval: "28.6 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "985.6 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "70.8 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "W"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "E"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.1 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "SE"
+},
+{
+rowkey: "SWELL",
+rowval: "0.1 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "SE"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.1 m"
+}
+]
+},
+{
+title: "07/27 夜间",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "多云"
+},
+{
+rowkey: "气温",
+rowval: "24.9 ℃"
+},
+{
+rowkey: "气压",
+rowval: "986.9 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "85.8 %"
+},
+{
+rowkey: "风向",
+rowval: "西风"
+},
+{
+rowkey: "风力",
+rowval: "4-5 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "东南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.1 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "东南"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.1 m"
+},
+{
+rowkey: "浪向",
+rowval: "东南"
+},
+{
+rowkey: "浪高",
+rowval: "0.1 m"
+}
+]
+},
+{
+title: "Jul. 27 Night",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Cloudy"
+},
+{
+rowkey: "Temperature",
+rowval: "24.9 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "986.9 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "85.8 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "W"
+},
+{
+rowkey: "Wind level",
+rowval: "4-5 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SE"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.1 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "SE"
+},
+{
+rowkey: "SWELL",
+rowval: "0.1 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "SE"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.1 m"
+}
+]
+},
+{
+title: "07/28 白天",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "多云"
+},
+{
+rowkey: "气温",
+rowval: "28.2 ℃"
+},
+{
+rowkey: "气压",
+rowval: "986.3 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "72.5 %"
+},
+{
+rowkey: "风向",
+rowval: "西风"
+},
+{
+rowkey: "风力",
+rowval: "4-5 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.1 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "北"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.1 m"
+},
+{
+rowkey: "浪向",
+rowval: "北"
+},
+{
+rowkey: "浪高",
+rowval: "0.2 m"
+}
+]
+},
+{
+title: "Jul. 28 Day",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Cloudy"
+},
+{
+rowkey: "Temperature",
+rowval: "28.2 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "986.3 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "72.5 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "W"
+},
+{
+rowkey: "Wind level",
+rowval: "4-5 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "S"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.1 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "N"
+},
+{
+rowkey: "SWELL",
+rowval: "0.1 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "N"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.2 m"
+}
+]
+},
+{
+title: "07/28 夜间",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "多云"
+},
+{
+rowkey: "气温",
+rowval: "24.7 ℃"
+},
+{
+rowkey: "气压",
+rowval: "987.2 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "85.8 %"
+},
+{
+rowkey: "风向",
+rowval: "西风"
+},
+{
+rowkey: "风力",
+rowval: "5-6 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "东南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.2 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "北"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.1 m"
+},
+{
+rowkey: "浪向",
+rowval: "西"
+},
+{
+rowkey: "浪高",
+rowval: "0.2 m"
+}
+]
+},
+{
+title: "Jul. 28 Night",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Cloudy"
+},
+{
+rowkey: "Temperature",
+rowval: "24.7 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "987.2 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "85.8 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "W"
+},
+{
+rowkey: "Wind level",
+rowval: "5-6 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SE"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.2 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "N"
+},
+{
+rowkey: "SWELL",
+rowval: "0.1 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "W"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.2 m"
+}
+]
+}
+]
+},
+{
+id: "tag:gvmedia.com.cn,2017:silkwave/meteorology/sea/donghainanbu",
+imageUri: "tag:gvmedia.com.cn,2017:silkwave/icons/hs/donghainanbu.png",
+Name: [
+{
+lang: "zh-CN",
+text: "东海南部"
+},
+{
+text: "South of East China Sea"
+}
+],
+VoiceCast: [
+{
+cdsPath: "/app/seameteorology/en/donghainanbu.ts"
+},
+{
+lang: "zh-CN",
+cdsPath: "/app/seameteorology/zh-CN/donghainanbu.ts"
+}
+],
+Info: [
+{
+title: "07/26 白天",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "小雨"
+},
+{
+rowkey: "气温",
+rowval: "28.6 ℃"
+},
+{
+rowkey: "气压",
+rowval: "986.4 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "76.6 %"
+},
+{
+rowkey: "风向",
+rowval: "西南风"
+},
+{
+rowkey: "风力",
+rowval: "4-5 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "西南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.6 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "东"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.4 m"
+},
+{
+rowkey: "浪向",
+rowval: "东"
+},
+{
+rowkey: "浪高",
+rowval: "0.7 m"
+}
+]
+},
+{
+title: "Jul. 26 Day",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Light rain"
+},
+{
+rowkey: "Temperature",
+rowval: "28.6 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "986.4 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "76.6 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "SW"
+},
+{
+rowkey: "Wind level",
+rowval: "4-5 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SW"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.6 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "E"
+},
+{
+rowkey: "SWELL",
+rowval: "0.4 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "E"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.7 m"
+}
+]
+},
+{
+title: "07/26 夜间",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "阴"
+},
+{
+rowkey: "气温",
+rowval: "28.1 ℃"
+},
+{
+rowkey: "气压",
+rowval: "986.4 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "78.4 %"
+},
+{
+rowkey: "风向",
+rowval: "南风"
+},
+{
+rowkey: "风力",
+rowval: "4-5 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "西南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.6 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "东"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.4 m"
+},
+{
+rowkey: "浪向",
+rowval: "东"
+},
+{
+rowkey: "浪高",
+rowval: "0.8 m"
+}
+]
+},
+{
+title: "Jul. 26 Night",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Overcast"
+},
+{
+rowkey: "Temperature",
+rowval: "28.1 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "986.4 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "78.4 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "S"
+},
+{
+rowkey: "Wind level",
+rowval: "4-5 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SW"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.6 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "E"
+},
+{
+rowkey: "SWELL",
+rowval: "0.4 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "E"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.8 m"
+}
+]
+},
+{
+title: "07/27 白天",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "小雨"
+},
+{
+rowkey: "气温",
+rowval: "28.6 ℃"
+},
+{
+rowkey: "气压",
+rowval: "986.9 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "76.4 %"
+},
+{
+rowkey: "风向",
+rowval: "南风"
+},
+{
+rowkey: "风力",
+rowval: "4-5 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "西南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.6 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "东"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.4 m"
+},
+{
+rowkey: "浪向",
+rowval: "东"
+},
+{
+rowkey: "浪高",
+rowval: "0.8 m"
+}
+]
+},
+{
+title: "Jul. 27 Day",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Light rain"
+},
+{
+rowkey: "Temperature",
+rowval: "28.6 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "986.9 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "76.4 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "S"
+},
+{
+rowkey: "Wind level",
+rowval: "4-5 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SW"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.6 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "E"
+},
+{
+rowkey: "SWELL",
+rowval: "0.4 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "E"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.8 m"
+}
+]
+},
+{
+title: "07/27 夜间",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "小雨"
+},
+{
+rowkey: "气温",
+rowval: "28.0 ℃"
+},
+{
+rowkey: "气压",
+rowval: "987.6 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "76.8 %"
+},
+{
+rowkey: "风向",
+rowval: "南风"
+},
+{
+rowkey: "风力",
+rowval: "4-5 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.6 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "东"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.4 m"
+},
+{
+rowkey: "浪向",
+rowval: "东"
+},
+{
+rowkey: "浪高",
+rowval: "0.8 m"
+}
+]
+},
+{
+title: "Jul. 27 Night",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Light rain"
+},
+{
+rowkey: "Temperature",
+rowval: "28.0 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "987.6 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "76.8 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "S"
+},
+{
+rowkey: "Wind level",
+rowval: "4-5 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "S"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.6 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "E"
+},
+{
+rowkey: "SWELL",
+rowval: "0.4 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "E"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.8 m"
+}
+]
+},
+{
+title: "07/28 白天",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "阴"
+},
+{
+rowkey: "气温",
+rowval: "28.7 ℃"
+},
+{
+rowkey: "气压",
+rowval: "988.7 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "74.8 %"
+},
+{
+rowkey: "风向",
+rowval: "南风"
+},
+{
+rowkey: "风力",
+rowval: "4-5 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.6 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "东"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.4 m"
+},
+{
+rowkey: "浪向",
+rowval: "东"
+},
+{
+rowkey: "浪高",
+rowval: "0.8 m"
+}
+]
+},
+{
+title: "Jul. 28 Day",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Overcast"
+},
+{
+rowkey: "Temperature",
+rowval: "28.7 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "988.7 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "74.8 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "S"
+},
+{
+rowkey: "Wind level",
+rowval: "4-5 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "S"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.6 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "E"
+},
+{
+rowkey: "SWELL",
+rowval: "0.4 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "E"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.8 m"
+}
+]
+},
+{
+title: "07/28 夜间",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "小雨"
+},
+{
+rowkey: "气温",
+rowval: "28.0 ℃"
+},
+{
+rowkey: "气压",
+rowval: "988.9 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "78.6 %"
+},
+{
+rowkey: "风向",
+rowval: "南风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.6 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "东"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.4 m"
+},
+{
+rowkey: "浪向",
+rowval: "东"
+},
+{
+rowkey: "浪高",
+rowval: "0.8 m"
+}
+]
+},
+{
+title: "Jul. 28 Night",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Light rain"
+},
+{
+rowkey: "Temperature",
+rowval: "28.0 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "988.9 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "78.6 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "S"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "S"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.6 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "E"
+},
+{
+rowkey: "SWELL",
+rowval: "0.4 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "E"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.8 m"
+}
+]
+}
+]
+},
+{
+id: "tag:gvmedia.com.cn,2017:silkwave/meteorology/sea/taiwanyidongyangmian",
+imageUri: "tag:gvmedia.com.cn,2017:silkwave/icons/hs/taiwanyidongyangmian.png",
+Name: [
+{
+lang: "zh-CN",
+text: "台湾以东洋面"
+},
+{
+text: "East Ocean of Taiwan"
+}
+],
+VoiceCast: [
+{
+cdsPath: "/app/seameteorology/en/taiwanyidongyangmian.ts"
+},
+{
+lang: "zh-CN",
+cdsPath: "/app/seameteorology/zh-CN/taiwanyidongyangmian.ts"
+}
+],
+Info: [
+{
+title: "07/26 白天",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "阴"
+},
+{
+rowkey: "气温",
+rowval: "29.6 ℃"
+},
+{
+rowkey: "气压",
+rowval: "997.7 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "74.7 %"
+},
+{
+rowkey: "风向",
+rowval: "南风"
+},
+{
+rowkey: "风力",
+rowval: "4-5 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "西南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.5 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "东"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.5 m"
+},
+{
+rowkey: "浪向",
+rowval: "东"
+},
+{
+rowkey: "浪高",
+rowval: "0.8 m"
+}
+]
+},
+{
+title: "Jul. 26 Day",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Overcast"
+},
+{
+rowkey: "Temperature",
+rowval: "29.6 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "997.7 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "74.7 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "S"
+},
+{
+rowkey: "Wind level",
+rowval: "4-5 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SW"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.5 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "E"
+},
+{
+rowkey: "SWELL",
+rowval: "0.5 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "E"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.8 m"
+}
+]
+},
+{
+title: "07/26 夜间",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "阴"
+},
+{
+rowkey: "气温",
+rowval: "29.3 ℃"
+},
+{
+rowkey: "气压",
+rowval: "997.5 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "75.8 %"
+},
+{
+rowkey: "风向",
+rowval: "南风"
+},
+{
+rowkey: "风力",
+rowval: "4-5 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "西南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.6 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "东"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.5 m"
+},
+{
+rowkey: "浪向",
+rowval: "东"
+},
+{
+rowkey: "浪高",
+rowval: "0.9 m"
+}
+]
+},
+{
+title: "Jul. 26 Night",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Overcast"
+},
+{
+rowkey: "Temperature",
+rowval: "29.3 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "997.5 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "75.8 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "S"
+},
+{
+rowkey: "Wind level",
+rowval: "4-5 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SW"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.6 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "E"
+},
+{
+rowkey: "SWELL",
+rowval: "0.5 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "E"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.9 m"
+}
+]
+},
+{
+title: "07/27 白天",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "阴"
+},
+{
+rowkey: "气温",
+rowval: "29.1 ℃"
+},
+{
+rowkey: "气压",
+rowval: "997.9 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "72.3 %"
+},
+{
+rowkey: "风向",
+rowval: "南风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "西南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.7 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "东"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.5 m"
+},
+{
+rowkey: "浪向",
+rowval: "东"
+},
+{
+rowkey: "浪高",
+rowval: "0.9 m"
+}
+]
+},
+{
+title: "Jul. 27 Day",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Overcast"
+},
+{
+rowkey: "Temperature",
+rowval: "29.1 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "997.9 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "72.3 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "S"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SW"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.7 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "E"
+},
+{
+rowkey: "SWELL",
+rowval: "0.5 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "E"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.9 m"
+}
+]
+},
+{
+title: "07/27 夜间",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "阴"
+},
+{
+rowkey: "气温",
+rowval: "29.1 ℃"
+},
+{
+rowkey: "气压",
+rowval: "998.4 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "70.9 %"
+},
+{
+rowkey: "风向",
+rowval: "南风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "西南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.6 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "东"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.5 m"
+},
+{
+rowkey: "浪向",
+rowval: "东"
+},
+{
+rowkey: "浪高",
+rowval: "0.9 m"
+}
+]
+},
+{
+title: "Jul. 27 Night",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Overcast"
+},
+{
+rowkey: "Temperature",
+rowval: "29.1 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "998.4 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "70.9 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "S"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SW"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.6 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "E"
+},
+{
+rowkey: "SWELL",
+rowval: "0.5 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "E"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.9 m"
+}
+]
+},
+{
+title: "07/28 白天",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "阴"
+},
+{
+rowkey: "气温",
+rowval: "29.7 ℃"
+},
+{
+rowkey: "气压",
+rowval: "999.2 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "70.9 %"
+},
+{
+rowkey: "风向",
+rowval: "东南风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "西南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.6 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "东"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.5 m"
+},
+{
+rowkey: "浪向",
+rowval: "东"
+},
+{
+rowkey: "浪高",
+rowval: "0.9 m"
+}
+]
+},
+{
+title: "Jul. 28 Day",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Overcast"
+},
+{
+rowkey: "Temperature",
+rowval: "29.7 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "999.2 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "70.9 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "SE"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SW"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.6 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "E"
+},
+{
+rowkey: "SWELL",
+rowval: "0.5 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "E"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.9 m"
+}
+]
+},
+{
+title: "07/28 夜间",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "阴"
+},
+{
+rowkey: "气温",
+rowval: "29.2 ℃"
+},
+{
+rowkey: "气压",
+rowval: "999.3 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "75.7 %"
+},
+{
+rowkey: "风向",
+rowval: "南风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.5 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "东"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.6 m"
+},
+{
+rowkey: "浪向",
+rowval: "东"
+},
+{
+rowkey: "浪高",
+rowval: "0.9 m"
+}
+]
+},
+{
+title: "Jul. 28 Night",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Overcast"
+},
+{
+rowkey: "Temperature",
+rowval: "29.2 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "999.3 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "75.7 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "S"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "S"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.5 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "E"
+},
+{
+rowkey: "SWELL",
+rowval: "0.6 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "E"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.9 m"
+}
+]
+}
+]
+},
+{
+id: "tag:gvmedia.com.cn,2017:silkwave/meteorology/sea/taiwanhaixia",
+imageUri: "tag:gvmedia.com.cn,2017:silkwave/icons/hs/taiwanhaixia.png",
+Name: [
+{
+lang: "zh-CN",
+text: "台湾海峡"
+},
+{
+text: "Taiwan Strait"
+}
+],
+VoiceCast: [
+{
+cdsPath: "/app/seameteorology/en/taiwanhaixia.ts"
+},
+{
+lang: "zh-CN",
+cdsPath: "/app/seameteorology/zh-CN/taiwanhaixia.ts"
+}
+],
+Info: [
+{
+title: "07/26 白天",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "阴"
+},
+{
+rowkey: "气温",
+rowval: "29.6 ℃"
+},
+{
+rowkey: "气压",
+rowval: "997.6 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "76.2 %"
+},
+{
+rowkey: "风向",
+rowval: "西南风"
+},
+{
+rowkey: "风力",
+rowval: "4-5 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "西南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.5 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "西南"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.5 m"
+},
+{
+rowkey: "浪向",
+rowval: "西南"
+},
+{
+rowkey: "浪高",
+rowval: "0.6 m"
+}
+]
+},
+{
+title: "Jul. 26 Day",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Overcast"
+},
+{
+rowkey: "Temperature",
+rowval: "29.6 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "997.6 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "76.2 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "SW"
+},
+{
+rowkey: "Wind level",
+rowval: "4-5 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SW"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.5 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "SW"
+},
+{
+rowkey: "SWELL",
+rowval: "0.5 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "SW"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.6 m"
+}
+]
+},
+{
+title: "07/26 夜间",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "小雨"
+},
+{
+rowkey: "气温",
+rowval: "29.3 ℃"
+},
+{
+rowkey: "气压",
+rowval: "997.3 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "78.2 %"
+},
+{
+rowkey: "风向",
+rowval: "西南风"
+},
+{
+rowkey: "风力",
+rowval: "4-5 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "西南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.6 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "东"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.3 m"
+},
+{
+rowkey: "浪向",
+rowval: "西南"
+},
+{
+rowkey: "浪高",
+rowval: "0.6 m"
+}
+]
+},
+{
+title: "Jul. 26 Night",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Light rain"
+},
+{
+rowkey: "Temperature",
+rowval: "29.3 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "997.3 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "78.2 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "SW"
+},
+{
+rowkey: "Wind level",
+rowval: "4-5 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SW"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.6 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "E"
+},
+{
+rowkey: "SWELL",
+rowval: "0.3 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "SW"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.6 m"
+}
+]
+},
+{
+title: "07/27 白天",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "阴"
+},
+{
+rowkey: "气温",
+rowval: "29.1 ℃"
+},
+{
+rowkey: "气压",
+rowval: "997.5 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "72.4 %"
+},
+{
+rowkey: "风向",
+rowval: "南风"
+},
+{
+rowkey: "风力",
+rowval: "4-5 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "西南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.6 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "东"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.3 m"
+},
+{
+rowkey: "浪向",
+rowval: "西南"
+},
+{
+rowkey: "浪高",
+rowval: "0.6 m"
+}
+]
+},
+{
+title: "Jul. 27 Day",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Overcast"
+},
+{
+rowkey: "Temperature",
+rowval: "29.1 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "997.5 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "72.4 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "S"
+},
+{
+rowkey: "Wind level",
+rowval: "4-5 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SW"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.6 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "E"
+},
+{
+rowkey: "SWELL",
+rowval: "0.3 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "SW"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.6 m"
+}
+]
+},
+{
+title: "07/27 夜间",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "小雨"
+},
+{
+rowkey: "气温",
+rowval: "29.2 ℃"
+},
+{
+rowkey: "气压",
+rowval: "997.5 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "73.6 %"
+},
+{
+rowkey: "风向",
+rowval: "南风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "西南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.7 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "东"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.2 m"
+},
+{
+rowkey: "浪向",
+rowval: "西南"
+},
+{
+rowkey: "浪高",
+rowval: "0.7 m"
+}
+]
+},
+{
+title: "Jul. 27 Night",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Light rain"
+},
+{
+rowkey: "Temperature",
+rowval: "29.2 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "997.5 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "73.6 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "S"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SW"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.7 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "E"
+},
+{
+rowkey: "SWELL",
+rowval: "0.2 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "SW"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.7 m"
+}
+]
+},
+{
+title: "07/28 白天",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "阴"
+},
+{
+rowkey: "气温",
+rowval: "29.7 ℃"
+},
+{
+rowkey: "气压",
+rowval: "998.3 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "68.8 %"
+},
+{
+rowkey: "风向",
+rowval: "南风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "西南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.8 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "西南"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.4 m"
+},
+{
+rowkey: "浪向",
+rowval: "西南"
+},
+{
+rowkey: "浪高",
+rowval: "0.9 m"
+}
+]
+},
+{
+title: "Jul. 28 Day",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Overcast"
+},
+{
+rowkey: "Temperature",
+rowval: "29.7 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "998.3 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "68.8 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "S"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SW"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.8 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "SW"
+},
+{
+rowkey: "SWELL",
+rowval: "0.4 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "SW"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.9 m"
+}
+]
+},
+{
+title: "07/28 夜间",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "阴"
+},
+{
+rowkey: "气温",
+rowval: "29.4 ℃"
+},
+{
+rowkey: "气压",
+rowval: "998.1 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "75.8 %"
+},
+{
+rowkey: "风向",
+rowval: "东南风"
+},
+{
+rowkey: "风力",
+rowval: "4-5 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "西南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.6 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "西南"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.5 m"
+},
+{
+rowkey: "浪向",
+rowval: "西南"
+},
+{
+rowkey: "浪高",
+rowval: "0.8 m"
+}
+]
+},
+{
+title: "Jul. 28 Night",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Overcast"
+},
+{
+rowkey: "Temperature",
+rowval: "29.4 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "998.1 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "75.8 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "SE"
+},
+{
+rowkey: "Wind level",
+rowval: "4-5 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SW"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.6 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "SW"
+},
+{
+rowkey: "SWELL",
+rowval: "0.5 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "SW"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.8 m"
+}
+]
+}
+]
+},
+{
+id: "tag:gvmedia.com.cn,2017:silkwave/meteorology/sea/nanhaidongbeibu",
+imageUri: "tag:gvmedia.com.cn,2017:silkwave/icons/hs/nanhaidongbeibu.png",
+Name: [
+{
+lang: "zh-CN",
+text: "南海东北部"
+},
+{
+text: "Northeast of South China Sea"
+}
+],
+VoiceCast: [
+{
+cdsPath: "/app/seameteorology/en/nanhaidongbeibu.ts"
+},
+{
+lang: "zh-CN",
+cdsPath: "/app/seameteorology/zh-CN/nanhaidongbeibu.ts"
+}
+],
+Info: [
+{
+title: "07/26 白天",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "阴"
+},
+{
+rowkey: "气温",
+rowval: "28.8 ℃"
+},
+{
+rowkey: "气压",
+rowval: "998.2 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "75.0 %"
+},
+{
+rowkey: "风向",
+rowval: "西南风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "西南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.8 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "西南"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.6 m"
+},
+{
+rowkey: "浪向",
+rowval: "西南"
+},
+{
+rowkey: "浪高",
+rowval: "0.8 m"
+}
+]
+},
+{
+title: "Jul. 26 Day",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Overcast"
+},
+{
+rowkey: "Temperature",
+rowval: "28.8 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "998.2 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "75.0 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "SW"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SW"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.8 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "SW"
+},
+{
+rowkey: "SWELL",
+rowval: "0.6 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "SW"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.8 m"
+}
+]
+},
+{
+title: "07/26 夜间",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "阴"
+},
+{
+rowkey: "气温",
+rowval: "28.8 ℃"
+},
+{
+rowkey: "气压",
+rowval: "998.1 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "76.6 %"
+},
+{
+rowkey: "风向",
+rowval: "西南风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "西南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.9 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "西南"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.6 m"
+},
+{
+rowkey: "浪向",
+rowval: "西南"
+},
+{
+rowkey: "浪高",
+rowval: "0.8 m"
+}
+]
+},
+{
+title: "Jul. 26 Night",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Overcast"
+},
+{
+rowkey: "Temperature",
+rowval: "28.8 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "998.1 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "76.6 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "SW"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SW"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.9 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "SW"
+},
+{
+rowkey: "SWELL",
+rowval: "0.6 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "SW"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.8 m"
+}
+]
+},
+{
+title: "07/27 白天",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "阴"
+},
+{
+rowkey: "气温",
+rowval: "29.0 ℃"
+},
+{
+rowkey: "气压",
+rowval: "997.6 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "74.5 %"
+},
+{
+rowkey: "风向",
+rowval: "南风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "西南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.9 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "西南"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.8 m"
+},
+{
+rowkey: "浪向",
+rowval: "西南"
+},
+{
+rowkey: "浪高",
+rowval: "0.9 m"
+}
+]
+},
+{
+title: "Jul. 27 Day",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Overcast"
+},
+{
+rowkey: "Temperature",
+rowval: "29.0 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "997.6 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "74.5 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "S"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SW"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.9 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "SW"
+},
+{
+rowkey: "SWELL",
+rowval: "0.8 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "SW"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.9 m"
+}
+]
+},
+{
+title: "07/27 夜间",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "小雨"
+},
+{
+rowkey: "气温",
+rowval: "28.9 ℃"
+},
+{
+rowkey: "气压",
+rowval: "997.9 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "75.4 %"
+},
+{
+rowkey: "风向",
+rowval: "南风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "西南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.9 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "西南"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.8 m"
+},
+{
+rowkey: "浪向",
+rowval: "西南"
+},
+{
+rowkey: "浪高",
+rowval: "1.0 m"
+}
+]
+},
+{
+title: "Jul. 27 Night",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Light rain"
+},
+{
+rowkey: "Temperature",
+rowval: "28.9 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "997.9 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "75.4 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "S"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SW"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.9 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "SW"
+},
+{
+rowkey: "SWELL",
+rowval: "0.8 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "SW"
+},
+{
+rowkey: "HTSGW",
+rowval: "1.0 m"
+}
+]
+},
+{
+title: "07/28 白天",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "阴"
+},
+{
+rowkey: "气温",
+rowval: "29.0 ℃"
+},
+{
+rowkey: "气压",
+rowval: "998.0 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "74.5 %"
+},
+{
+rowkey: "风向",
+rowval: "东南风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "西南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.9 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "西南"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.7 m"
+},
+{
+rowkey: "浪向",
+rowval: "西南"
+},
+{
+rowkey: "浪高",
+rowval: "1.0 m"
+}
+]
+},
+{
+title: "Jul. 28 Day",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Overcast"
+},
+{
+rowkey: "Temperature",
+rowval: "29.0 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "998.0 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "74.5 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "SE"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SW"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.9 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "SW"
+},
+{
+rowkey: "SWELL",
+rowval: "0.7 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "SW"
+},
+{
+rowkey: "HTSGW",
+rowval: "1.0 m"
+}
+]
+},
+{
+title: "07/28 夜间",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "阴"
+},
+{
+rowkey: "气温",
+rowval: "28.5 ℃"
+},
+{
+rowkey: "气压",
+rowval: "998.1 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "78.1 %"
+},
+{
+rowkey: "风向",
+rowval: "东南风"
+},
+{
+rowkey: "风力",
+rowval: "4-5 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "西南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.9 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "西南"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.7 m"
+},
+{
+rowkey: "浪向",
+rowval: "西南"
+},
+{
+rowkey: "浪高",
+rowval: "0.9 m"
+}
+]
+},
+{
+title: "Jul. 28 Night",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Overcast"
+},
+{
+rowkey: "Temperature",
+rowval: "28.5 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "998.1 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "78.1 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "SE"
+},
+{
+rowkey: "Wind level",
+rowval: "4-5 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SW"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.9 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "SW"
+},
+{
+rowkey: "SWELL",
+rowval: "0.7 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "SW"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.9 m"
+}
+]
+}
+]
+},
+{
+id: "tag:gvmedia.com.cn,2017:silkwave/meteorology/sea/liuqiuqundaoyidongyangmian",
+imageUri: "tag:gvmedia.com.cn,2017:silkwave/icons/hs/liuqiuqundaoyidongyangmian.png",
+Name: [
+{
+lang: "zh-CN",
+text: "琉球群岛以东洋面"
+},
+{
+text: "East Ocean of Ryukyu islands"
+}
+],
+VoiceCast: [
+{
+cdsPath: "/app/seameteorology/en/liuqiuqundaoyidongyangmian.ts"
+},
+{
+lang: "zh-CN",
+cdsPath: "/app/seameteorology/zh-CN/liuqiuqundaoyidongyangmian.ts"
+}
+],
+Info: [
+{
+title: "07/26 白天",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "阴"
+},
+{
+rowkey: "气温",
+rowval: "29.1 ℃"
+},
+{
+rowkey: "气压",
+rowval: "998.3 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "69.6 %"
+},
+{
+rowkey: "风向",
+rowval: "东南风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: ""
+},
+{
+rowkey: "风浪波高",
+rowval: ""
+},
+{
+rowkey: "涌浪方向",
+rowval: "东"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.8 m"
+},
+{
+rowkey: "浪向",
+rowval: "东北"
+},
+{
+rowkey: "浪高",
+rowval: "1.0 m"
+}
+]
+},
+{
+title: "Jul. 26 Day",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Overcast"
+},
+{
+rowkey: "Temperature",
+rowval: "29.1 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "998.3 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "69.6 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "SE"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: ""
+},
+{
+rowkey: "WVHGT",
+rowval: ""
+},
+{
+rowkey: "SWDIR",
+rowval: "E"
+},
+{
+rowkey: "SWELL",
+rowval: "0.8 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "NE"
+},
+{
+rowkey: "HTSGW",
+rowval: "1.0 m"
+}
+]
+},
+{
+title: "07/26 夜间",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "阴"
+},
+{
+rowkey: "气温",
+rowval: "28.8 ℃"
+},
+{
+rowkey: "气压",
+rowval: "998.2 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "71.8 %"
+},
+{
+rowkey: "风向",
+rowval: "东南风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: ""
+},
+{
+rowkey: "风浪波高",
+rowval: ""
+},
+{
+rowkey: "涌浪方向",
+rowval: "东北"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.8 m"
+},
+{
+rowkey: "浪向",
+rowval: "东北"
+},
+{
+rowkey: "浪高",
+rowval: "1.0 m"
+}
+]
+},
+{
+title: "Jul. 26 Night",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Overcast"
+},
+{
+rowkey: "Temperature",
+rowval: "28.8 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "998.2 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "71.8 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "SE"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: ""
+},
+{
+rowkey: "WVHGT",
+rowval: ""
+},
+{
+rowkey: "SWDIR",
+rowval: "NE"
+},
+{
+rowkey: "SWELL",
+rowval: "0.8 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "NE"
+},
+{
+rowkey: "HTSGW",
+rowval: "1.0 m"
+}
+]
+},
+{
+title: "07/27 白天",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "阴"
+},
+{
+rowkey: "气温",
+rowval: "29.3 ℃"
+},
+{
+rowkey: "气压",
+rowval: "998.7 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "69.6 %"
+},
+{
+rowkey: "风向",
+rowval: "东南风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: ""
+},
+{
+rowkey: "风浪波高",
+rowval: ""
+},
+{
+rowkey: "涌浪方向",
+rowval: "东北"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.8 m"
+},
+{
+rowkey: "浪向",
+rowval: "东北"
+},
+{
+rowkey: "浪高",
+rowval: "1.0 m"
+}
+]
+},
+{
+title: "Jul. 27 Day",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Overcast"
+},
+{
+rowkey: "Temperature",
+rowval: "29.3 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "998.7 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "69.6 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "SE"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: ""
+},
+{
+rowkey: "WVHGT",
+rowval: ""
+},
+{
+rowkey: "SWDIR",
+rowval: "NE"
+},
+{
+rowkey: "SWELL",
+rowval: "0.8 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "NE"
+},
+{
+rowkey: "HTSGW",
+rowval: "1.0 m"
+}
+]
+},
+{
+title: "07/27 夜间",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "阴"
+},
+{
+rowkey: "气温",
+rowval: "29.1 ℃"
+},
+{
+rowkey: "气压",
+rowval: "999.4 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "74.2 %"
+},
+{
+rowkey: "风向",
+rowval: "东南风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "东南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.2 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "东北"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.9 m"
+},
+{
+rowkey: "浪向",
+rowval: "东北"
+},
+{
+rowkey: "浪高",
+rowval: "1.0 m"
+}
+]
+},
+{
+title: "Jul. 27 Night",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Overcast"
+},
+{
+rowkey: "Temperature",
+rowval: "29.1 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "999.4 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "74.2 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "SE"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SE"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.2 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "NE"
+},
+{
+rowkey: "SWELL",
+rowval: "0.9 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "NE"
+},
+{
+rowkey: "HTSGW",
+rowval: "1.0 m"
+}
+]
+},
+{
+title: "07/28 白天",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "阴"
+},
+{
+rowkey: "气温",
+rowval: "29.5 ℃"
+},
+{
+rowkey: "气压",
+rowval: "1000.4 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "75.2 %"
+},
+{
+rowkey: "风向",
+rowval: "东南风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "东"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.3 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "东北"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.8 m"
+},
+{
+rowkey: "浪向",
+rowval: "东北"
+},
+{
+rowkey: "浪高",
+rowval: "1.0 m"
+}
+]
+},
+{
+title: "Jul. 28 Day",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Overcast"
+},
+{
+rowkey: "Temperature",
+rowval: "29.5 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "1000.4 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "75.2 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "SE"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "E"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.3 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "NE"
+},
+{
+rowkey: "SWELL",
+rowval: "0.8 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "NE"
+},
+{
+rowkey: "HTSGW",
+rowval: "1.0 m"
+}
+]
+},
+{
+title: "07/28 夜间",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "阴"
+},
+{
+rowkey: "气温",
+rowval: "29.1 ℃"
+},
+{
+rowkey: "气压",
+rowval: "1000.8 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "78.9 %"
+},
+{
+rowkey: "风向",
+rowval: "东南风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "东南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.3 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "东北"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.6 m"
+},
+{
+rowkey: "浪向",
+rowval: "东"
+},
+{
+rowkey: "浪高",
+rowval: "0.9 m"
+}
+]
+},
+{
+title: "Jul. 28 Night",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Overcast"
+},
+{
+rowkey: "Temperature",
+rowval: "29.1 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "1000.8 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "78.9 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "SE"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SE"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.3 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "NE"
+},
+{
+rowkey: "SWELL",
+rowval: "0.6 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "E"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.9 m"
+}
+]
+}
+]
+},
+{
+id: "tag:gvmedia.com.cn,2017:silkwave/meteorology/sea/beibuwan",
+imageUri: "tag:gvmedia.com.cn,2017:silkwave/icons/hs/beibuwan.png",
+Name: [
+{
+lang: "zh-CN",
+text: "北部湾"
+},
+{
+text: "Beibu Gulf"
+}
+],
+VoiceCast: [
+{
+cdsPath: "/app/seameteorology/en/beibuwan.ts"
+},
+{
+lang: "zh-CN",
+cdsPath: "/app/seameteorology/zh-CN/beibuwan.ts"
+}
+],
+Info: [
+{
+title: "07/26 白天",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "阴"
+},
+{
+rowkey: "气温",
+rowval: "25.5 ℃"
+},
+{
+rowkey: "气压",
+rowval: "950.1 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "82.0 %"
+},
+{
+rowkey: "风向",
+rowval: "西南风"
+},
+{
+rowkey: "风力",
+rowval: "4-5 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "西南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.9 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "东南"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.3 m"
+},
+{
+rowkey: "浪向",
+rowval: "西南"
+},
+{
+rowkey: "浪高",
+rowval: "0.9 m"
+}
+]
+},
+{
+title: "Jul. 26 Day",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Overcast"
+},
+{
+rowkey: "Temperature",
+rowval: "25.5 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "950.1 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "82.0 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "SW"
+},
+{
+rowkey: "Wind level",
+rowval: "4-5 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SW"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.9 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "SE"
+},
+{
+rowkey: "SWELL",
+rowval: "0.3 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "SW"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.9 m"
+}
+]
+},
+{
+title: "07/26 夜间",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "阴"
+},
+{
+rowkey: "气温",
+rowval: "22.2 ℃"
+},
+{
+rowkey: "气压",
+rowval: "950.0 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "93.1 %"
+},
+{
+rowkey: "风向",
+rowval: "南风"
+},
+{
+rowkey: "风力",
+rowval: "4-5 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "西南"
+},
+{
+rowkey: "风浪波高",
+rowval: "1.1 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "东南"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.2 m"
+},
+{
+rowkey: "浪向",
+rowval: "西南"
+},
+{
+rowkey: "浪高",
+rowval: "1.1 m"
+}
+]
+},
+{
+title: "Jul. 26 Night",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Overcast"
+},
+{
+rowkey: "Temperature",
+rowval: "22.2 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "950.0 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "93.1 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "S"
+},
+{
+rowkey: "Wind level",
+rowval: "4-5 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SW"
+},
+{
+rowkey: "WVHGT",
+rowval: "1.1 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "SE"
+},
+{
+rowkey: "SWELL",
+rowval: "0.2 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "SW"
+},
+{
+rowkey: "HTSGW",
+rowval: "1.1 m"
+}
+]
+},
+{
+title: "07/27 白天",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "阴"
+},
+{
+rowkey: "气温",
+rowval: "26.9 ℃"
+},
+{
+rowkey: "气压",
+rowval: "948.5 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "78.5 %"
+},
+{
+rowkey: "风向",
+rowval: "南风"
+},
+{
+rowkey: "风力",
+rowval: "4-5 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "西南"
+},
+{
+rowkey: "风浪波高",
+rowval: "1.2 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "东"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.3 m"
+},
+{
+rowkey: "浪向",
+rowval: "西南"
+},
+{
+rowkey: "浪高",
+rowval: "1.2 m"
+}
+]
+},
+{
+title: "Jul. 27 Day",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Overcast"
+},
+{
+rowkey: "Temperature",
+rowval: "26.9 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "948.5 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "78.5 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "S"
+},
+{
+rowkey: "Wind level",
+rowval: "4-5 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SW"
+},
+{
+rowkey: "WVHGT",
+rowval: "1.2 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "E"
+},
+{
+rowkey: "SWELL",
+rowval: "0.3 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "SW"
+},
+{
+rowkey: "HTSGW",
+rowval: "1.2 m"
+}
+]
+},
+{
+title: "07/27 夜间",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "阴"
+},
+{
+rowkey: "气温",
+rowval: "22.6 ℃"
+},
+{
+rowkey: "气压",
+rowval: "949.6 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "93.5 %"
+},
+{
+rowkey: "风向",
+rowval: "南风"
+},
+{
+rowkey: "风力",
+rowval: "4-5 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "西南"
+},
+{
+rowkey: "风浪波高",
+rowval: "1.0 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "东南"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.3 m"
+},
+{
+rowkey: "浪向",
+rowval: "西南"
+},
+{
+rowkey: "浪高",
+rowval: "1.0 m"
+}
+]
+},
+{
+title: "Jul. 27 Night",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Overcast"
+},
+{
+rowkey: "Temperature",
+rowval: "22.6 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "949.6 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "93.5 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "S"
+},
+{
+rowkey: "Wind level",
+rowval: "4-5 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SW"
+},
+{
+rowkey: "WVHGT",
+rowval: "1.0 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "SE"
+},
+{
+rowkey: "SWELL",
+rowval: "0.3 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "SW"
+},
+{
+rowkey: "HTSGW",
+rowval: "1.0 m"
+}
+]
+},
+{
+title: "07/28 白天",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "阴"
+},
+{
+rowkey: "气温",
+rowval: "26.9 ℃"
+},
+{
+rowkey: "气压",
+rowval: "948.7 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "76.0 %"
+},
+{
+rowkey: "风向",
+rowval: "南风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "西南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.8 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "东南"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.4 m"
+},
+{
+rowkey: "浪向",
+rowval: "西南"
+},
+{
+rowkey: "浪高",
+rowval: "0.9 m"
+}
+]
+},
+{
+title: "Jul. 28 Day",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Overcast"
+},
+{
+rowkey: "Temperature",
+rowval: "26.9 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "948.7 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "76.0 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "S"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SW"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.8 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "SE"
+},
+{
+rowkey: "SWELL",
+rowval: "0.4 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "SW"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.9 m"
+}
+]
+},
+{
+title: "07/28 夜间",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "中雨"
+},
+{
+rowkey: "气温",
+rowval: "22.6 ℃"
+},
+{
+rowkey: "气压",
+rowval: "949.6 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "92.9 %"
+},
+{
+rowkey: "风向",
+rowval: "南风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.7 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "东"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.3 m"
+},
+{
+rowkey: "浪向",
+rowval: "东南"
+},
+{
+rowkey: "浪高",
+rowval: "0.8 m"
+}
+]
+},
+{
+title: "Jul. 28 Night",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Moderate rain"
+},
+{
+rowkey: "Temperature",
+rowval: "22.6 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "949.6 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "92.9 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "S"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "S"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.7 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "E"
+},
+{
+rowkey: "SWELL",
+rowval: "0.3 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "SE"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.8 m"
+}
+]
+}
+]
+},
+{
+id: "tag:gvmedia.com.cn,2017:silkwave/meteorology/sea/nanhaixibeibu",
+imageUri: "tag:gvmedia.com.cn,2017:silkwave/icons/hs/nanhaixibeibu.png",
+Name: [
+{
+lang: "zh-CN",
+text: "南海西北部"
+},
+{
+text: "Northwest of South China Sea"
+}
+],
+VoiceCast: [
+{
+cdsPath: "/app/seameteorology/en/nanhaixibeibu.ts"
+},
+{
+lang: "zh-CN",
+cdsPath: "/app/seameteorology/zh-CN/nanhaixibeibu.ts"
+}
+],
+Info: [
+{
+title: "07/26 白天",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "阴"
+},
+{
+rowkey: "气温",
+rowval: "29.3 ℃"
+},
+{
+rowkey: "气压",
+rowval: "997.1 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "77.8 %"
+},
+{
+rowkey: "风向",
+rowval: "南风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.8 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "东"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.5 m"
+},
+{
+rowkey: "浪向",
+rowval: "南"
+},
+{
+rowkey: "浪高",
+rowval: "0.9 m"
+}
+]
+},
+{
+title: "Jul. 26 Day",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Overcast"
+},
+{
+rowkey: "Temperature",
+rowval: "29.3 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "997.1 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "77.8 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "S"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "S"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.8 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "E"
+},
+{
+rowkey: "SWELL",
+rowval: "0.5 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "S"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.9 m"
+}
+]
+},
+{
+title: "07/26 夜间",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "阴"
+},
+{
+rowkey: "气温",
+rowval: "28.9 ℃"
+},
+{
+rowkey: "气压",
+rowval: "996.9 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "81.1 %"
+},
+{
+rowkey: "风向",
+rowval: "西南风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.7 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "南"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.4 m"
+},
+{
+rowkey: "浪向",
+rowval: "南"
+},
+{
+rowkey: "浪高",
+rowval: "0.8 m"
+}
+]
+},
+{
+title: "Jul. 26 Night",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Overcast"
+},
+{
+rowkey: "Temperature",
+rowval: "28.9 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "996.9 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "81.1 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "SW"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "S"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.7 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "S"
+},
+{
+rowkey: "SWELL",
+rowval: "0.4 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "S"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.8 m"
+}
+]
+},
+{
+title: "07/27 白天",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "阴"
+},
+{
+rowkey: "气温",
+rowval: "29.0 ℃"
+},
+{
+rowkey: "气压",
+rowval: "996.3 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "78.9 %"
+},
+{
+rowkey: "风向",
+rowval: "南风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.7 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "南"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.7 m"
+},
+{
+rowkey: "浪向",
+rowval: "南"
+},
+{
+rowkey: "浪高",
+rowval: "0.9 m"
+}
+]
+},
+{
+title: "Jul. 27 Day",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Overcast"
+},
+{
+rowkey: "Temperature",
+rowval: "29.0 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "996.3 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "78.9 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "S"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "S"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.7 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "S"
+},
+{
+rowkey: "SWELL",
+rowval: "0.7 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "S"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.9 m"
+}
+]
+},
+{
+title: "07/27 夜间",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "阴"
+},
+{
+rowkey: "气温",
+rowval: "28.7 ℃"
+},
+{
+rowkey: "气压",
+rowval: "996.8 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "79.9 %"
+},
+{
+rowkey: "风向",
+rowval: "南风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.9 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "东"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.5 m"
+},
+{
+rowkey: "浪向",
+rowval: "南"
+},
+{
+rowkey: "浪高",
+rowval: "1.0 m"
+}
+]
+},
+{
+title: "Jul. 27 Night",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Overcast"
+},
+{
+rowkey: "Temperature",
+rowval: "28.7 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "996.8 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "79.9 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "S"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "S"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.9 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "E"
+},
+{
+rowkey: "SWELL",
+rowval: "0.5 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "S"
+},
+{
+rowkey: "HTSGW",
+rowval: "1.0 m"
+}
+]
+},
+{
+title: "07/28 白天",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "阴"
+},
+{
+rowkey: "气温",
+rowval: "29.2 ℃"
+},
+{
+rowkey: "气压",
+rowval: "996.5 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "75.4 %"
+},
+{
+rowkey: "风向",
+rowval: "东南风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.8 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "南"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.5 m"
+},
+{
+rowkey: "浪向",
+rowval: "西南"
+},
+{
+rowkey: "浪高",
+rowval: "0.9 m"
+}
+]
+},
+{
+title: "Jul. 28 Day",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Overcast"
+},
+{
+rowkey: "Temperature",
+rowval: "29.2 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "996.5 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "75.4 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "SE"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "S"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.8 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "S"
+},
+{
+rowkey: "SWELL",
+rowval: "0.5 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "SW"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.9 m"
+}
+]
+},
+{
+title: "07/28 夜间",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "小雨"
+},
+{
+rowkey: "气温",
+rowval: "28.8 ℃"
+},
+{
+rowkey: "气压",
+rowval: "996.5 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "79.4 %"
+},
+{
+rowkey: "风向",
+rowval: "东南风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.7 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "东"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.3 m"
+},
+{
+rowkey: "浪向",
+rowval: "南"
+},
+{
+rowkey: "浪高",
+rowval: "0.8 m"
+}
+]
+},
+{
+title: "Jul. 28 Night",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Light rain"
+},
+{
+rowkey: "Temperature",
+rowval: "28.8 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "996.5 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "79.4 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "SE"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "S"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.7 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "E"
+},
+{
+rowkey: "SWELL",
+rowval: "0.3 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "S"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.8 m"
+}
+]
+}
+]
+},
+{
+id: "tag:gvmedia.com.cn,2017:silkwave/meteorology/sea/feilvbindongbeiyangmian",
+imageUri: "tag:gvmedia.com.cn,2017:silkwave/icons/hs/feilvbindongbeiyangmian.png",
+Name: [
+{
+lang: "zh-CN",
+text: "菲律宾东北洋面"
+},
+{
+text: "Northeast Ocean of Philippine"
+}
+],
+VoiceCast: [
+{
+cdsPath: "/app/seameteorology/en/feilvbindongbeiyangmian.ts"
+},
+{
+lang: "zh-CN",
+cdsPath: "/app/seameteorology/zh-CN/feilvbindongbeiyangmian.ts"
+}
+],
+Info: [
+{
+title: "07/26 白天",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "阴"
+},
+{
+rowkey: "气温",
+rowval: "29.1 ℃"
+},
+{
+rowkey: "气压",
+rowval: "997.1 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "75.0 %"
+},
+{
+rowkey: "风向",
+rowval: "西风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "西南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.5 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "东"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.5 m"
+},
+{
+rowkey: "浪向",
+rowval: "东"
+},
+{
+rowkey: "浪高",
+rowval: "0.9 m"
+}
+]
+},
+{
+title: "Jul. 26 Day",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Overcast"
+},
+{
+rowkey: "Temperature",
+rowval: "29.1 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "997.1 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "75.0 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "W"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SW"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.5 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "E"
+},
+{
+rowkey: "SWELL",
+rowval: "0.5 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "E"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.9 m"
+}
+]
+},
+{
+title: "07/26 夜间",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "阴"
+},
+{
+rowkey: "气温",
+rowval: "28.5 ℃"
+},
+{
+rowkey: "气压",
+rowval: "997.1 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "76.8 %"
+},
+{
+rowkey: "风向",
+rowval: "东南风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "西南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.5 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "南"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.6 m"
+},
+{
+rowkey: "浪向",
+rowval: "东北"
+},
+{
+rowkey: "浪高",
+rowval: "0.9 m"
+}
+]
+},
+{
+title: "Jul. 26 Night",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Overcast"
+},
+{
+rowkey: "Temperature",
+rowval: "28.5 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "997.1 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "76.8 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "SE"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SW"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.5 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "S"
+},
+{
+rowkey: "SWELL",
+rowval: "0.6 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "NE"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.9 m"
+}
+]
+},
+{
+title: "07/27 白天",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "阴"
+},
+{
+rowkey: "气温",
+rowval: "29.0 ℃"
+},
+{
+rowkey: "气压",
+rowval: "996.8 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "74.3 %"
+},
+{
+rowkey: "风向",
+rowval: "东南风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "西"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.5 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "东北"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.6 m"
+},
+{
+rowkey: "浪向",
+rowval: "东北"
+},
+{
+rowkey: "浪高",
+rowval: "0.9 m"
+}
+]
+},
+{
+title: "Jul. 27 Day",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Overcast"
+},
+{
+rowkey: "Temperature",
+rowval: "29.0 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "996.8 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "74.3 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "SE"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "W"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.5 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "NE"
+},
+{
+rowkey: "SWELL",
+rowval: "0.6 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "NE"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.9 m"
+}
+]
+},
+{
+title: "07/27 夜间",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "小雨"
+},
+{
+rowkey: "气温",
+rowval: "28.2 ℃"
+},
+{
+rowkey: "气压",
+rowval: "997.8 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "75.4 %"
+},
+{
+rowkey: "风向",
+rowval: "东南风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "西"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.4 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "东北"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.6 m"
+},
+{
+rowkey: "浪向",
+rowval: "东北"
+},
+{
+rowkey: "浪高",
+rowval: "0.9 m"
+}
+]
+},
+{
+title: "Jul. 27 Night",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Light rain"
+},
+{
+rowkey: "Temperature",
+rowval: "28.2 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "997.8 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "75.4 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "SE"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "W"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.4 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "NE"
+},
+{
+rowkey: "SWELL",
+rowval: "0.6 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "NE"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.9 m"
+}
+]
+},
+{
+title: "07/28 白天",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "阴"
+},
+{
+rowkey: "气温",
+rowval: "28.7 ℃"
+},
+{
+rowkey: "气压",
+rowval: "998.1 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "72.6 %"
+},
+{
+rowkey: "风向",
+rowval: "东南风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "西南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.4 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "东北"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.5 m"
+},
+{
+rowkey: "浪向",
+rowval: "东北"
+},
+{
+rowkey: "浪高",
+rowval: "0.8 m"
+}
+]
+},
+{
+title: "Jul. 28 Day",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Overcast"
+},
+{
+rowkey: "Temperature",
+rowval: "28.7 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "998.1 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "72.6 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "SE"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SW"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.4 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "NE"
+},
+{
+rowkey: "SWELL",
+rowval: "0.5 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "NE"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.8 m"
+}
+]
+},
+{
+title: "07/28 夜间",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "小雨"
+},
+{
+rowkey: "气温",
+rowval: "28.0 ℃"
+},
+{
+rowkey: "气压",
+rowval: "998.4 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "74.6 %"
+},
+{
+rowkey: "风向",
+rowval: "东南风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "西南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.3 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "东北"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.5 m"
+},
+{
+rowkey: "浪向",
+rowval: "东北"
+},
+{
+rowkey: "浪高",
+rowval: "0.7 m"
+}
+]
+},
+{
+title: "Jul. 28 Night",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Light rain"
+},
+{
+rowkey: "Temperature",
+rowval: "28.0 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "998.4 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "74.6 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "SE"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SW"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.3 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "NE"
+},
+{
+rowkey: "SWELL",
+rowval: "0.5 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "NE"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.7 m"
+}
+]
+}
+]
+},
+{
+id: "tag:gvmedia.com.cn,2017:silkwave/meteorology/sea/bashihaixia",
+imageUri: "tag:gvmedia.com.cn,2017:silkwave/icons/hs/bashihaixia.png",
+Name: [
+{
+lang: "zh-CN",
+text: "巴士海峡"
+},
+{
+text: "Bashi Strait"
+}
+],
+VoiceCast: [
+{
+cdsPath: "/app/seameteorology/en/bashihaixia.ts"
+},
+{
+lang: "zh-CN",
+cdsPath: "/app/seameteorology/zh-CN/bashihaixia.ts"
+}
+],
+Info: [
+{
+title: "07/26 白天",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "阴"
+},
+{
+rowkey: "气温",
+rowval: "26.9 ℃"
+},
+{
+rowkey: "气压",
+rowval: "960.5 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "82.2 %"
+},
+{
+rowkey: "风向",
+rowval: "西风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "北"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.1 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "西南"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.5 m"
+},
+{
+rowkey: "浪向",
+rowval: "西南"
+},
+{
+rowkey: "浪高",
+rowval: "0.6 m"
+}
+]
+},
+{
+title: "Jul. 26 Day",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Overcast"
+},
+{
+rowkey: "Temperature",
+rowval: "26.9 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "960.5 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "82.2 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "W"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "N"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.1 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "SW"
+},
+{
+rowkey: "SWELL",
+rowval: "0.5 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "SW"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.6 m"
+}
+]
+},
+{
+title: "07/26 夜间",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "阴"
+},
+{
+rowkey: "气温",
+rowval: "24.3 ℃"
+},
+{
+rowkey: "气压",
+rowval: "960.6 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "88.0 %"
+},
+{
+rowkey: "风向",
+rowval: "西南风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.3 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "西南"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.5 m"
+},
+{
+rowkey: "浪向",
+rowval: "西南"
+},
+{
+rowkey: "浪高",
+rowval: "0.6 m"
+}
+]
+},
+{
+title: "Jul. 26 Night",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Overcast"
+},
+{
+rowkey: "Temperature",
+rowval: "24.3 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "960.6 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "88.0 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "SW"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "S"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.3 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "SW"
+},
+{
+rowkey: "SWELL",
+rowval: "0.5 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "SW"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.6 m"
+}
+]
+},
+{
+title: "07/27 白天",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "阴"
+},
+{
+rowkey: "气温",
+rowval: "26.4 ℃"
+},
+{
+rowkey: "气压",
+rowval: "960.2 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "82.2 %"
+},
+{
+rowkey: "风向",
+rowval: "西南风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "西南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.5 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "东"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.4 m"
+},
+{
+rowkey: "浪向",
+rowval: "东北"
+},
+{
+rowkey: "浪高",
+rowval: "0.7 m"
+}
+]
+},
+{
+title: "Jul. 27 Day",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Overcast"
+},
+{
+rowkey: "Temperature",
+rowval: "26.4 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "960.2 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "82.2 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "SW"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SW"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.5 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "E"
+},
+{
+rowkey: "SWELL",
+rowval: "0.4 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "NE"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.7 m"
+}
+]
+},
+{
+title: "07/27 夜间",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "阴"
+},
+{
+rowkey: "气温",
+rowval: "24.0 ℃"
+},
+{
+rowkey: "气压",
+rowval: "960.8 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "87.2 %"
+},
+{
+rowkey: "风向",
+rowval: "东南风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "西南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.6 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "东北"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.5 m"
+},
+{
+rowkey: "浪向",
+rowval: "东北"
+},
+{
+rowkey: "浪高",
+rowval: "0.7 m"
+}
+]
+},
+{
+title: "Jul. 27 Night",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Overcast"
+},
+{
+rowkey: "Temperature",
+rowval: "24.0 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "960.8 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "87.2 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "SE"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SW"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.6 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "NE"
+},
+{
+rowkey: "SWELL",
+rowval: "0.5 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "NE"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.7 m"
+}
+]
+},
+{
+title: "07/28 白天",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "阴"
+},
+{
+rowkey: "气温",
+rowval: "26.6 ℃"
+},
+{
+rowkey: "气压",
+rowval: "960.9 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "81.1 %"
+},
+{
+rowkey: "风向",
+rowval: "东风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "西南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.7 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "东北"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.5 m"
+},
+{
+rowkey: "浪向",
+rowval: "西南"
+},
+{
+rowkey: "浪高",
+rowval: "0.8 m"
+}
+]
+},
+{
+title: "Jul. 28 Day",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Overcast"
+},
+{
+rowkey: "Temperature",
+rowval: "26.6 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "960.9 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "81.1 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "E"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "SW"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.7 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "NE"
+},
+{
+rowkey: "SWELL",
+rowval: "0.5 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "SW"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.8 m"
+}
+]
+},
+{
+title: "07/28 夜间",
+lang: "zh-CN",
+Row: [
+{
+rowkey: "天气现象",
+rowval: "阴"
+},
+{
+rowkey: "气温",
+rowval: "23.5 ℃"
+},
+{
+rowkey: "气压",
+rowval: "961.6 hPa"
+},
+{
+rowkey: "相对湿度",
+rowval: "89.5 %"
+},
+{
+rowkey: "风向",
+rowval: "东风"
+},
+{
+rowkey: "风力",
+rowval: "3-4 级"
+},
+{
+rowkey: "风浪方向",
+rowval: "南"
+},
+{
+rowkey: "风浪波高",
+rowval: "0.5 m"
+},
+{
+rowkey: "涌浪方向",
+rowval: "西南"
+},
+{
+rowkey: "涌浪波高",
+rowval: "0.5 m"
+},
+{
+rowkey: "浪向",
+rowval: "西南"
+},
+{
+rowkey: "浪高",
+rowval: "0.8 m"
+}
+]
+},
+{
+title: "Jul. 28 Night",
+Row: [
+{
+rowkey: "Weather Phenomena",
+rowval: "Overcast"
+},
+{
+rowkey: "Temperature",
+rowval: "23.5 ℃"
+},
+{
+rowkey: "Pressure",
+rowval: "961.6 hPa"
+},
+{
+rowkey: "Relative humidity",
+rowval: "89.5 %"
+},
+{
+rowkey: "Wind direction",
+rowval: "E"
+},
+{
+rowkey: "Wind level",
+rowval: "3-4 level"
+},
+{
+rowkey: "WVDIR",
+rowval: "S"
+},
+{
+rowkey: "WVHGT",
+rowval: "0.5 m"
+},
+{
+rowkey: "SWDIR",
+rowval: "SW"
+},
+{
+rowkey: "SWELL",
+rowval: "0.5 m"
+},
+{
+rowkey: "DIRPW",
+rowval: "SW"
+},
+{
+rowkey: "HTSGW",
+rowval: "0.8 m"
+}
+]
+}
+]
+}
+]
+}

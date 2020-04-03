@@ -1,0 +1,1 @@
+2020-01-19 10:01:01.468 [csServer-dtm] [INFO] MBox ROM Version is: X002_8909_v1.8_20170626_11_user\n2

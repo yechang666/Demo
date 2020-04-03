@@ -1,0 +1,15 @@
+#!/usr/bin/expect
+set timeout 5
+send "expect\r"
+expect {
+  "command not found" {send "yum install expect\r";exp_continue}
+  ">" {send "exit\r"}
+}
+expect "]*"
+spawn ssh root@$192.168.10.226
+expect {
+  "yes/no" {send "yes\n";exp_continue}
+  "password:" {send "123456\n"}
+}
+expect "]*"
+interact
